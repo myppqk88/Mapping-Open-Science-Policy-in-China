@@ -9,6 +9,7 @@ authors:
     affiliation: "School of Cultural Heritage and Information Management, Shanghai University, Shanghai, China"
   - family-names: "Sheng"
     given-names: "Xiaoping"
+    orcid: "https://orcid.org/0000-0002-9310-6028"
     affiliation: "School of Cultural Heritage and Information Management, Shanghai University, Shanghai, China"
 date-released: 2026-08-22
 version: "v5.3"
@@ -40,6 +41,7 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0000-0187-9190"
     - family-names: "Sheng"
       given-names: "Xiaoping"
+      orcid: "https://orcid.org/0000-0002-9310-6028"
   journal: "Humanities and Social Sciences Communications"
   year: 2026
   notes: "under review"
