@@ -1,0 +1,65 @@
+﻿stage_id,stage_name,stage_name_zh,central_local,central_local_en,category_code,policy_file_count,within_stage_level_category_share,category_name
+1,Emergence,萌芽期,中央,Central,OA,2,0.04878048780487805,Open access
+1,Emergence,萌芽期,中央,Central,OD,8,0.1951219512195122,Open data
+1,Emergence,萌芽期,中央,Central,OSS,0,0.0,Open-source software
+1,Emergence,萌芽期,中央,Central,OERs,14,0.34146341463414637,Open educational resources
+1,Emergence,萌芽期,中央,Central,CS,4,0.0975609756097561,Citizen science
+1,Emergence,萌芽期,中央,Central,OPR,1,0.024390243902439025,Open peer review
+1,Emergence,萌芽期,中央,Central,OI,12,0.2926829268292683,Open infrastructure
+1,Emergence,萌芽期,中央,Central,ORM,0,0.0,Open research methods
+1,Emergence,萌芽期,地方,Local,OA,4,0.030534351145038167,Open access
+1,Emergence,萌芽期,地方,Local,OD,9,0.06870229007633588,Open data
+1,Emergence,萌芽期,地方,Local,OSS,4,0.030534351145038167,Open-source software
+1,Emergence,萌芽期,地方,Local,OERs,74,0.5648854961832062,Open educational resources
+1,Emergence,萌芽期,地方,Local,CS,9,0.06870229007633588,Citizen science
+1,Emergence,萌芽期,地方,Local,OPR,3,0.022900763358778626,Open peer review
+1,Emergence,萌芽期,地方,Local,OI,27,0.20610687022900764,Open infrastructure
+1,Emergence,萌芽期,地方,Local,ORM,1,0.007633587786259542,Open research methods
+2,Gradual expansion,渐进扩展期,中央,Central,OA,17,0.04156479217603912,Open access
+2,Gradual expansion,渐进扩展期,中央,Central,OD,53,0.1295843520782396,Open data
+2,Gradual expansion,渐进扩展期,中央,Central,OSS,11,0.02689486552567237,Open-source software
+2,Gradual expansion,渐进扩展期,中央,Central,OERs,71,0.17359413202933985,Open educational resources
+2,Gradual expansion,渐进扩展期,中央,Central,CS,143,0.34963325183374083,Citizen science
+2,Gradual expansion,渐进扩展期,中央,Central,OPR,10,0.02444987775061125,Open peer review
+2,Gradual expansion,渐进扩展期,中央,Central,OI,104,0.254278728606357,Open infrastructure
+2,Gradual expansion,渐进扩展期,中央,Central,ORM,0,0.0,Open research methods
+2,Gradual expansion,渐进扩展期,地方,Local,OA,90,0.03550295857988166,Open access
+2,Gradual expansion,渐进扩展期,地方,Local,OD,268,0.10571992110453649,Open data
+2,Gradual expansion,渐进扩展期,地方,Local,OSS,54,0.021301775147928994,Open-source software
+2,Gradual expansion,渐进扩展期,地方,Local,OERs,958,0.3779092702169625,Open educational resources
+2,Gradual expansion,渐进扩展期,地方,Local,CS,225,0.08875739644970414,Citizen science
+2,Gradual expansion,渐进扩展期,地方,Local,OPR,84,0.033136094674556214,Open peer review
+2,Gradual expansion,渐进扩展期,地方,Local,OI,854,0.3368836291913215,Open infrastructure
+2,Gradual expansion,渐进扩展期,地方,Local,ORM,2,0.0007889546351084812,Open research methods
+3,Rapid expansion,快速扩张期,中央,Central,OA,12,0.022222222222222223,Open access
+3,Rapid expansion,快速扩张期,中央,Central,OD,103,0.19074074074074074,Open data
+3,Rapid expansion,快速扩张期,中央,Central,OSS,24,0.044444444444444446,Open-source software
+3,Rapid expansion,快速扩张期,中央,Central,OERs,132,0.24444444444444444,Open educational resources
+3,Rapid expansion,快速扩张期,中央,Central,CS,124,0.22962962962962963,Citizen science
+3,Rapid expansion,快速扩张期,中央,Central,OPR,23,0.04259259259259259,Open peer review
+3,Rapid expansion,快速扩张期,中央,Central,OI,122,0.22592592592592592,Open infrastructure
+3,Rapid expansion,快速扩张期,中央,Central,ORM,0,0.0,Open research methods
+3,Rapid expansion,快速扩张期,地方,Local,OA,48,0.01218892839004571,Open access
+3,Rapid expansion,快速扩张期,地方,Local,OD,967,0.24555611985779582,Open data
+3,Rapid expansion,快速扩张期,地方,Local,OSS,129,0.03275774504824784,Open-source software
+3,Rapid expansion,快速扩张期,地方,Local,OERs,1362,0.345860843067547,Open educational resources
+3,Rapid expansion,快速扩张期,地方,Local,CS,133,0.03377348908075165,Citizen science
+3,Rapid expansion,快速扩张期,地方,Local,OPR,107,0.02717115286947689,Open peer review
+3,Rapid expansion,快速扩张期,地方,Local,OI,1174,0.29812087353986794,Open infrastructure
+3,Rapid expansion,快速扩张期,地方,Local,ORM,18,0.0045708481462671405,Open research methods
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OA,23,0.05569007263922518,Open access
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OD,121,0.2929782082324455,Open data
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OSS,52,0.12590799031476999,Open-source software
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OERs,58,0.14043583535108958,Open educational resources
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,CS,75,0.18159806295399517,Citizen science
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OPR,29,0.07021791767554479,Open peer review
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OI,54,0.13075060532687652,Open infrastructure
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,ORM,1,0.002421307506053269,Open research methods
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OA,49,0.01168057210965435,Open access
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OD,1057,0.2519666269368296,Open data
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OSS,314,0.07485101311084624,Open-source software
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OERs,1116,0.266030989272944,Open educational resources
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,CS,340,0.08104886769964244,Citizen science
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OPR,54,0.012872467222884387,Open peer review
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OI,1236,0.29463647199046483,Open infrastructure
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,ORM,29,0.006912991656734207,Open research methods

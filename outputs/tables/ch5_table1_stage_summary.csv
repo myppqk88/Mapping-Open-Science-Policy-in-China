@@ -1,0 +1,5 @@
+﻿stage_id,stage_name,stage_name_zh,year_start,year_end,policy_file_count,policy_file_share,annual_mean,central_file_count,local_file_count,multi_category_file_count,multi_category_file_share,top_category_code,top_category_name,top_category_file_count
+1,Emergence,萌芽期,1993,2005,148,0.01429951690821256,11.384615384615385,31,117,21,0.14189189189189189,OERs,Open educational resources,88
+2,Gradual expansion,渐进扩展期,2006,2015,2512,0.24270531400966183,251.2,350,2162,345,0.1373407643312102,OERs,Open educational resources,1029
+3,Rapid expansion,快速扩张期,2016,2020,3854,0.3723671497584541,770.8,447,3407,536,0.13907628437986508,OERs,Open educational resources,1494
+4,High-level diffusion and adjustment,高位扩散与调整期,2021,2025,3836,0.3706280193236715,767.2,370,3466,667,0.17387904066736184,OI,Open infrastructure,1290

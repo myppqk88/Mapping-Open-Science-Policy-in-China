@@ -1,0 +1,33 @@
+﻿region,category_code,entry_count,region_en,category_name,entry_share
+东部,OA,111,Eastern,Open access,0.013783683099466038
+东部,OD,1438,Eastern,Open data,0.17856699366695641
+东部,OSS,602,Eastern,Open-source software,0.07475474978268969
+东部,OERs,2531,Eastern,Open educational resources,0.31429281013286975
+东部,CS,1155,Eastern,Citizen science,0.14342481062957904
+东部,OPR,97,Eastern,Open peer review,0.012045200546380232
+东部,OI,2080,Eastern,Open infrastructure,0.2582888364584627
+东部,ORM,39,Eastern,Open research methods,0.004842915683596175
+中部,OA,28,Central,Open access,0.0070052539404553416
+中部,OD,711,Central,Open data,0.17788341255941956
+中部,OSS,107,Central,Open-source software,0.026770077558168626
+中部,OERs,1582,Central,Open educational resources,0.3957968476357268
+中部,CS,441,Central,Citizen science,0.11033274956217162
+中部,OPR,79,Central,Open peer review,0.019764823617713284
+中部,OI,1047,Central,Open infrastructure,0.2619464598448837
+中部,ORM,2,Central,Open research methods,0.0005003752814610958
+西部,OA,72,Western,Open access,0.01449859041482078
+西部,OD,989,Western,Open data,0.1991542488924688
+西部,OSS,107,Western,Open-source software,0.021546516310914216
+西部,OERs,1402,Western,Open educational resources,0.2823197744663713
+西部,CS,572,Western,Citizen science,0.11518324607329843
+西部,OPR,91,Western,Open peer review,0.01832460732984293
+西部,OI,1718,Western,Open infrastructure,0.3459524768425292
+西部,ORM,15,Western,Open research methods,0.0030205396697543293
+东北,OA,9,Northeastern,Open access,0.0063025210084033615
+东北,OD,203,Northeastern,Open data,0.14215686274509803
+东北,OSS,20,Northeastern,Open-source software,0.014005602240896359
+东北,OERs,487,Northeastern,Open educational resources,0.34103641456582634
+东北,CS,198,Northeastern,Citizen science,0.13865546218487396
+东北,OPR,27,Northeastern,Open peer review,0.018907563025210083
+东北,OI,483,Northeastern,Open infrastructure,0.3382352941176471
+东北,ORM,1,Northeastern,Open research methods,0.0007002801120448179

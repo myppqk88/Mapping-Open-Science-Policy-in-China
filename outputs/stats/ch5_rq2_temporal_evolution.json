@@ -1,0 +1,1118 @@
+{
+  "research_question": "RQ2: 中国开放科学政策在时间上如何演化？",
+  "unit_note": "Chapter 5 uses policy-file counts for temporal trajectory and stage summaries. Section 5.3 combines standardized policy-file and policy-entry counts as the open science policy intensity index.",
+  "source_note": "Policy files are reconstructed from unique policy keys retained in the 5.2 final open-science entry workbook after initial screening, wide-scope semantic re-review, high-risk second review, and manual-aided consistency checks.",
+  "partial_year_note": "The 2026 records are partial as of the current data extraction and are excluded from stage summaries.",
+  "data_audit": {
+    "final_policy_files": 10425,
+    "raw_excel_central_files": 1212,
+    "raw_excel_local_files": 9213,
+    "category_policy_rows": 10425,
+    "source_note": "Policy files are reconstructed from unique policy keys in the 5.2 final open-science entry workbook after initial screening, wide-scope semantic re-review, high-risk second review, and manual-aided consistency checks."
+  },
+  "valid_dated_policy_files": 10419,
+  "missing_date_policy_files": 6,
+  "analysis_policy_files_1993_2025": 10352,
+  "peak_complete_year": {
+    "year": 2022,
+    "policy_file_count": 1130
+  },
+  "stage_summary": [
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "year_start": 1993,
+      "year_end": 2005,
+      "policy_file_count": 148,
+      "policy_file_share": 0.01429951690821256,
+      "annual_mean": 11.384615384615385,
+      "central_file_count": 31,
+      "local_file_count": 117,
+      "multi_category_file_count": 21,
+      "multi_category_file_share": 0.14189189189189189,
+      "top_category_code": "OERs",
+      "top_category_name": "Open educational resources",
+      "top_category_file_count": 88
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "year_start": 2006,
+      "year_end": 2015,
+      "policy_file_count": 2512,
+      "policy_file_share": 0.24270531400966183,
+      "annual_mean": 251.2,
+      "central_file_count": 350,
+      "local_file_count": 2162,
+      "multi_category_file_count": 345,
+      "multi_category_file_share": 0.1373407643312102,
+      "top_category_code": "OERs",
+      "top_category_name": "Open educational resources",
+      "top_category_file_count": 1029
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "year_start": 2016,
+      "year_end": 2020,
+      "policy_file_count": 3854,
+      "policy_file_share": 0.3723671497584541,
+      "annual_mean": 770.8,
+      "central_file_count": 447,
+      "local_file_count": 3407,
+      "multi_category_file_count": 536,
+      "multi_category_file_share": 0.13907628437986508,
+      "top_category_code": "OERs",
+      "top_category_name": "Open educational resources",
+      "top_category_file_count": 1494
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "year_start": 2021,
+      "year_end": 2025,
+      "policy_file_count": 3836,
+      "policy_file_share": 0.3706280193236715,
+      "annual_mean": 767.2,
+      "central_file_count": 370,
+      "local_file_count": 3466,
+      "multi_category_file_count": 667,
+      "multi_category_file_share": 0.17387904066736184,
+      "top_category_code": "OI",
+      "top_category_name": "Open infrastructure",
+      "top_category_file_count": 1290
+    }
+  ],
+  "category_entry_years": [
+    {
+      "category_code": "OA",
+      "category_name": "Open access",
+      "first_observed_year": 1985,
+      "first_year_with_at_least_10_files": 2006,
+      "first_year_with_at_least_50_files": null,
+      "peak_year": 2016,
+      "peak_file_count": 22,
+      "total_policy_files_1993_2025": 247
+    },
+    {
+      "category_code": "OD",
+      "category_name": "Open data",
+      "first_observed_year": 2002,
+      "first_year_with_at_least_10_files": 2006,
+      "first_year_with_at_least_50_files": 2015,
+      "peak_year": 2022,
+      "peak_file_count": 340,
+      "total_policy_files_1993_2025": 2586
+    },
+    {
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "first_observed_year": 2003,
+      "first_year_with_at_least_10_files": 2015,
+      "first_year_with_at_least_50_files": 2021,
+      "peak_year": 2022,
+      "peak_file_count": 86,
+      "total_policy_files_1993_2025": 588
+    },
+    {
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "first_observed_year": 1994,
+      "first_year_with_at_least_10_files": 2001,
+      "first_year_with_at_least_50_files": 2006,
+      "peak_year": 2022,
+      "peak_file_count": 417,
+      "total_policy_files_1993_2025": 3785
+    },
+    {
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "first_observed_year": 2000,
+      "first_year_with_at_least_10_files": 2006,
+      "first_year_with_at_least_50_files": 2006,
+      "peak_year": 2022,
+      "peak_file_count": 147,
+      "total_policy_files_1993_2025": 1053
+    },
+    {
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "first_observed_year": 1999,
+      "first_year_with_at_least_10_files": 2013,
+      "first_year_with_at_least_50_files": null,
+      "peak_year": 2019,
+      "peak_file_count": 36,
+      "total_policy_files_1993_2025": 311
+    },
+    {
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "first_observed_year": 1999,
+      "first_year_with_at_least_10_files": 2004,
+      "first_year_with_at_least_50_files": 2006,
+      "peak_year": 2022,
+      "peak_file_count": 354,
+      "total_policy_files_1993_2025": 3583
+    },
+    {
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "first_observed_year": 2005,
+      "first_year_with_at_least_10_files": null,
+      "first_year_with_at_least_50_files": null,
+      "peak_year": 2021,
+      "peak_file_count": 9,
+      "total_policy_files_1993_2025": 51
+    }
+  ],
+  "top_combinations_by_stage_and_level": [
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs",
+      "policy_file_count": 11,
+      "within_stage_level_file_share": 0.3548387096774194
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "CS",
+      "policy_file_count": 4,
+      "within_stage_level_file_share": 0.12903225806451613
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OI",
+      "policy_file_count": 4,
+      "within_stage_level_file_share": 0.12903225806451613
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.0967741935483871
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OI",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.0967741935483871
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs+OI",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.0967741935483871
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OA+OD+OI",
+      "policy_file_count": 2,
+      "within_stage_level_file_share": 0.06451612903225806
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OPR",
+      "policy_file_count": 1,
+      "within_stage_level_file_share": 0.03225806451612903
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs",
+      "policy_file_count": 73,
+      "within_stage_level_file_share": 0.6460176991150443
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OI",
+      "policy_file_count": 15,
+      "within_stage_level_file_share": 0.13274336283185842
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS",
+      "policy_file_count": 5,
+      "within_stage_level_file_share": 0.04424778761061947
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OA+OD+OI",
+      "policy_file_count": 4,
+      "within_stage_level_file_share": 0.035398230088495575
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OSS",
+      "policy_file_count": 4,
+      "within_stage_level_file_share": 0.035398230088495575
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OI",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.02654867256637168
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OPR",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.02654867256637168
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS+OI",
+      "policy_file_count": 2,
+      "within_stage_level_file_share": 0.017699115044247787
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+CS",
+      "policy_file_count": 1,
+      "within_stage_level_file_share": 0.008849557522123894
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+CS+OI",
+      "policy_file_count": 1,
+      "within_stage_level_file_share": 0.008849557522123894
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs+OI",
+      "policy_file_count": 1,
+      "within_stage_level_file_share": 0.008849557522123894
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OI+ORM",
+      "policy_file_count": 1,
+      "within_stage_level_file_share": 0.008849557522123894
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "CS",
+      "policy_file_count": 121,
+      "within_stage_level_file_share": 0.3457142857142857
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OI",
+      "policy_file_count": 73,
+      "within_stage_level_file_share": 0.20857142857142857
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs",
+      "policy_file_count": 58,
+      "within_stage_level_file_share": 0.1657142857142857
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD",
+      "policy_file_count": 27,
+      "within_stage_level_file_share": 0.07714285714285714
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "CS+OI",
+      "policy_file_count": 12,
+      "within_stage_level_file_share": 0.03428571428571429
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OI",
+      "policy_file_count": 11,
+      "within_stage_level_file_share": 0.03142857142857143
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OA",
+      "policy_file_count": 10,
+      "within_stage_level_file_share": 0.02857142857142857
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OPR",
+      "policy_file_count": 9,
+      "within_stage_level_file_share": 0.025714285714285714
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OSS",
+      "policy_file_count": 5,
+      "within_stage_level_file_share": 0.014285714285714285
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs+CS",
+      "policy_file_count": 5,
+      "within_stage_level_file_share": 0.014285714285714285
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OA+OD+OI",
+      "policy_file_count": 4,
+      "within_stage_level_file_share": 0.011428571428571429
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OERs",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.008571428571428572
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs",
+      "policy_file_count": 865,
+      "within_stage_level_file_share": 0.40046296296296297
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OI",
+      "policy_file_count": 616,
+      "within_stage_level_file_share": 0.2851851851851852
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS",
+      "policy_file_count": 117,
+      "within_stage_level_file_share": 0.05416666666666667
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD",
+      "policy_file_count": 115,
+      "within_stage_level_file_share": 0.05324074074074074
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OI",
+      "policy_file_count": 78,
+      "within_stage_level_file_share": 0.03611111111111111
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OPR",
+      "policy_file_count": 75,
+      "within_stage_level_file_share": 0.034722222222222224
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS+OI",
+      "policy_file_count": 58,
+      "within_stage_level_file_share": 0.026851851851851852
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OA",
+      "policy_file_count": 42,
+      "within_stage_level_file_share": 0.019444444444444445
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OSS",
+      "policy_file_count": 32,
+      "within_stage_level_file_share": 0.014814814814814815
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs+OI",
+      "policy_file_count": 31,
+      "within_stage_level_file_share": 0.014351851851851852
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OERs",
+      "policy_file_count": 17,
+      "within_stage_level_file_share": 0.00787037037037037
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OA+OD+OI",
+      "policy_file_count": 14,
+      "within_stage_level_file_share": 0.006481481481481481
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "CS",
+      "policy_file_count": 100,
+      "within_stage_level_file_share": 0.22573363431151242
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs",
+      "policy_file_count": 94,
+      "within_stage_level_file_share": 0.21218961625282168
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OI",
+      "policy_file_count": 76,
+      "within_stage_level_file_share": 0.17155756207674944
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD",
+      "policy_file_count": 54,
+      "within_stage_level_file_share": 0.12189616252821671
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OI",
+      "policy_file_count": 21,
+      "within_stage_level_file_share": 0.04740406320541761
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OPR",
+      "policy_file_count": 19,
+      "within_stage_level_file_share": 0.04288939051918736
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OERs",
+      "policy_file_count": 16,
+      "within_stage_level_file_share": 0.03611738148984198
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OSS",
+      "policy_file_count": 11,
+      "within_stage_level_file_share": 0.024830699774266364
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OA",
+      "policy_file_count": 9,
+      "within_stage_level_file_share": 0.020316027088036117
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "CS+OI",
+      "policy_file_count": 8,
+      "within_stage_level_file_share": 0.01805869074492099
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs+CS+OI",
+      "policy_file_count": 6,
+      "within_stage_level_file_share": 0.013544018058690745
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs+CS",
+      "policy_file_count": 6,
+      "within_stage_level_file_share": 0.013544018058690745
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs",
+      "policy_file_count": 1177,
+      "within_stage_level_file_share": 0.34556664709336465
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OI",
+      "policy_file_count": 907,
+      "within_stage_level_file_share": 0.2662947739283617
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD",
+      "policy_file_count": 662,
+      "within_stage_level_file_share": 0.19436288901937757
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OI",
+      "policy_file_count": 113,
+      "within_stage_level_file_share": 0.03317674691720493
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OERs",
+      "policy_file_count": 81,
+      "within_stage_level_file_share": 0.02378156194950088
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OPR",
+      "policy_file_count": 80,
+      "within_stage_level_file_share": 0.023487962419260128
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS",
+      "policy_file_count": 54,
+      "within_stage_level_file_share": 0.015854374633000587
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OSS",
+      "policy_file_count": 51,
+      "within_stage_level_file_share": 0.014973576042278332
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS+OI",
+      "policy_file_count": 35,
+      "within_stage_level_file_share": 0.010275983558426306
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OSS",
+      "policy_file_count": 31,
+      "within_stage_level_file_share": 0.0091015854374633
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs+OI",
+      "policy_file_count": 30,
+      "within_stage_level_file_share": 0.008807985907222548
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OSS+OI",
+      "policy_file_count": 17,
+      "within_stage_level_file_share": 0.0049911920140927775
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD",
+      "policy_file_count": 80,
+      "within_stage_level_file_share": 0.22598870056497175
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "CS",
+      "policy_file_count": 65,
+      "within_stage_level_file_share": 0.18361581920903955
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OERs",
+      "policy_file_count": 44,
+      "within_stage_level_file_share": 0.12429378531073447
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OI",
+      "policy_file_count": 33,
+      "within_stage_level_file_share": 0.09322033898305085
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OSS",
+      "policy_file_count": 32,
+      "within_stage_level_file_share": 0.0903954802259887
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OPR",
+      "policy_file_count": 28,
+      "within_stage_level_file_share": 0.07909604519774012
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OA",
+      "policy_file_count": 19,
+      "within_stage_level_file_share": 0.05367231638418079
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OSS",
+      "policy_file_count": 14,
+      "within_stage_level_file_share": 0.03954802259887006
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OI",
+      "policy_file_count": 12,
+      "within_stage_level_file_share": 0.03389830508474576
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+OERs",
+      "policy_file_count": 5,
+      "within_stage_level_file_share": 0.014124293785310734
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OA+OD",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.00847457627118644
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "中央",
+      "central_local_en": "Central",
+      "category_combination": "OD+CS",
+      "policy_file_count": 3,
+      "within_stage_level_file_share": 0.00847457627118644
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OI",
+      "policy_file_count": 933,
+      "within_stage_level_file_share": 0.26965317919075144
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs",
+      "policy_file_count": 866,
+      "within_stage_level_file_share": 0.2502890173410405
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD",
+      "policy_file_count": 665,
+      "within_stage_level_file_share": 0.19219653179190752
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS",
+      "policy_file_count": 175,
+      "within_stage_level_file_share": 0.05057803468208093
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OSS",
+      "policy_file_count": 155,
+      "within_stage_level_file_share": 0.044797687861271675
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OI",
+      "policy_file_count": 124,
+      "within_stage_level_file_share": 0.035838150289017344
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OERs+CS",
+      "policy_file_count": 97,
+      "within_stage_level_file_share": 0.028034682080924855
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OSS",
+      "policy_file_count": 74,
+      "within_stage_level_file_share": 0.02138728323699422
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OD+OERs",
+      "policy_file_count": 68,
+      "within_stage_level_file_share": 0.019653179190751446
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OSS+OI",
+      "policy_file_count": 35,
+      "within_stage_level_file_share": 0.010115606936416185
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "OPR",
+      "policy_file_count": 34,
+      "within_stage_level_file_share": 0.009826589595375723
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "central_local": "地方",
+      "central_local_en": "Local",
+      "category_combination": "CS+OI",
+      "policy_file_count": 27,
+      "within_stage_level_file_share": 0.007803468208092485
+    }
+  ],
+  "policy_output_coupling_note": "Coupling uses the common years 2005-2024 because the science-research composite index begins in 2005 and ends in 2024.",
+  "policy_output_science_indicator": "综合指数",
+  "policy_output_correlation": {
+    "pearson": 0.8015743105289916,
+    "spearman": 0.882706766917293
+  },
+  "policy_output_quadrants": [
+    {
+      "quadrant": "high_policy_high_output",
+      "quadrant_label_zh": "协同领先型",
+      "years": "2015、2016、2017、2018、2019、2020、2021、2022、2023、2024",
+      "n_years": 10,
+      "mean_policy_files": 766.5,
+      "mean_science_output": 63.837767396390255
+    },
+    {
+      "quadrant": "low_policy_low_output",
+      "quadrant_label_zh": "双弱滞后型",
+      "years": "2005、2006、2007、2008、2009、2010、2011、2012、2013、2014",
+      "n_years": 10,
+      "mean_policy_files": 212.8,
+      "mean_science_output": 16.86494259400832
+    }
+  ]
+}

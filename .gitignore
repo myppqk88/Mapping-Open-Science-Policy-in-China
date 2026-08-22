@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local scratch output written by the figure scripts on first run.
+# Anchored to the repo root so that the curated outputs/figures/ is still tracked.
+/figures/
+*.aux
+*.log
+
+# Lock files & temporary
+~$*
+*.tmp
+*.bak
+
+# Large raw data (kept locally, not on GitHub)
+_raw/
+_tile_cache/
+_archive/
+
+# Editor backups
+*.broken
+*.new

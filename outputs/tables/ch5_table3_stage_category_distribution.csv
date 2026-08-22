@@ -1,0 +1,33 @@
+﻿stage_id,stage_name,stage_name_zh,category_code,policy_file_count,within_stage_category_share,category_name
+1,Emergence,萌芽期,OA,6,0.03488372093023256,Open access
+1,Emergence,萌芽期,OD,17,0.09883720930232558,Open data
+1,Emergence,萌芽期,OSS,4,0.023255813953488372,Open-source software
+1,Emergence,萌芽期,OERs,88,0.5116279069767442,Open educational resources
+1,Emergence,萌芽期,CS,13,0.0755813953488372,Citizen science
+1,Emergence,萌芽期,OPR,4,0.023255813953488372,Open peer review
+1,Emergence,萌芽期,OI,39,0.22674418604651161,Open infrastructure
+1,Emergence,萌芽期,ORM,1,0.005813953488372093,Open research methods
+2,Gradual expansion,渐进扩展期,OA,107,0.036345108695652176,Open access
+2,Gradual expansion,渐进扩展期,OD,321,0.10903532608695653,Open data
+2,Gradual expansion,渐进扩展期,OSS,65,0.022078804347826088,Open-source software
+2,Gradual expansion,渐进扩展期,OERs,1029,0.34952445652173914,Open educational resources
+2,Gradual expansion,渐进扩展期,CS,368,0.125,Citizen science
+2,Gradual expansion,渐进扩展期,OPR,94,0.03192934782608696,Open peer review
+2,Gradual expansion,渐进扩展期,OI,958,0.32540760869565216,Open infrastructure
+2,Gradual expansion,渐进扩展期,ORM,2,0.0006793478260869565,Open research methods
+3,Rapid expansion,快速扩张期,OA,60,0.013398838767306834,Open access
+3,Rapid expansion,快速扩张期,OD,1070,0.23894595801697185,Open data
+3,Rapid expansion,快速扩张期,OSS,153,0.03416703885663243,Open-source software
+3,Rapid expansion,快速扩张期,OERs,1494,0.33363108530594016,Open educational resources
+3,Rapid expansion,快速扩张期,CS,257,0.05739169271996427,Citizen science
+3,Rapid expansion,快速扩张期,OPR,130,0.029030817329164807,Open peer review
+3,Rapid expansion,快速扩张期,OI,1296,0.28941491737382763,Open infrastructure
+3,Rapid expansion,快速扩张期,ORM,18,0.00401965163019205,Open research methods
+4,High-level diffusion and adjustment,高位扩散与调整期,OA,72,0.015625,Open access
+4,High-level diffusion and adjustment,高位扩散与调整期,OD,1178,0.2556423611111111,Open data
+4,High-level diffusion and adjustment,高位扩散与调整期,OSS,366,0.07942708333333333,Open-source software
+4,High-level diffusion and adjustment,高位扩散与调整期,OERs,1174,0.2547743055555556,Open educational resources
+4,High-level diffusion and adjustment,高位扩散与调整期,CS,415,0.0900607638888889,Citizen science
+4,High-level diffusion and adjustment,高位扩散与调整期,OPR,83,0.018012152777777776,Open peer review
+4,High-level diffusion and adjustment,高位扩散与调整期,OI,1290,0.2799479166666667,Open infrastructure
+4,High-level diffusion and adjustment,高位扩散与调整期,ORM,30,0.006510416666666667,Open research methods

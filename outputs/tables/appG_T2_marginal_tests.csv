@@ -1,0 +1,4 @@
+test,n,statistic,p,decision
+"First-difference Pearson r (dP_t, dS_t)",26,-0.2944,0.1443,Not significant
+"First-difference Spearman rho (dP_t, dS_t)",26,-0.3655,0.0664,"Marginal, not significant at alpha=0.05"
+Mean dS in policy-rising vs falling years (Welch t),16 vs 10,-0.8089,0.4279,Not significant

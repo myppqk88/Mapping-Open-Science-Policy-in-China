@@ -1,0 +1,5 @@
+S1_quadrant,HH,HL,LH,LL
+HH,10,0,1,0
+HL,1,2,0,1
+LH,1,0,1,1
+LL,1,0,0,8

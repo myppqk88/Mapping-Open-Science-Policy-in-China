@@ -1,0 +1,129 @@
+﻿stage_id,stage_name,stage_name_zh,region,region_en,category_code,category_name,entry_count,entry_share
+1,Emergence,萌芽期,东部,Eastern,OA,Open access,0,0.0
+1,Emergence,萌芽期,东部,Eastern,OD,Open data,2,0.01904761904761905
+1,Emergence,萌芽期,东部,Eastern,OSS,Open-source software,4,0.0380952380952381
+1,Emergence,萌芽期,东部,Eastern,OERs,Open educational resources,59,0.5619047619047619
+1,Emergence,萌芽期,东部,Eastern,CS,Citizen science,17,0.1619047619047619
+1,Emergence,萌芽期,东部,Eastern,OPR,Open peer review,0,0.0
+1,Emergence,萌芽期,东部,Eastern,OI,Open infrastructure,23,0.21904761904761905
+1,Emergence,萌芽期,东部,Eastern,ORM,Open research methods,0,0.0
+1,Emergence,萌芽期,中部,Central,OA,Open access,0,0.0
+1,Emergence,萌芽期,中部,Central,OD,Open data,7,0.21212121212121213
+1,Emergence,萌芽期,中部,Central,OSS,Open-source software,0,0.0
+1,Emergence,萌芽期,中部,Central,OERs,Open educational resources,22,0.6666666666666666
+1,Emergence,萌芽期,中部,Central,CS,Citizen science,1,0.030303030303030304
+1,Emergence,萌芽期,中部,Central,OPR,Open peer review,1,0.030303030303030304
+1,Emergence,萌芽期,中部,Central,OI,Open infrastructure,2,0.06060606060606061
+1,Emergence,萌芽期,中部,Central,ORM,Open research methods,0,0.0
+1,Emergence,萌芽期,西部,Western,OA,Open access,4,0.042105263157894736
+1,Emergence,萌芽期,西部,Western,OD,Open data,6,0.06315789473684211
+1,Emergence,萌芽期,西部,Western,OSS,Open-source software,0,0.0
+1,Emergence,萌芽期,西部,Western,OERs,Open educational resources,10,0.10526315789473684
+1,Emergence,萌芽期,西部,Western,CS,Citizen science,2,0.021052631578947368
+1,Emergence,萌芽期,西部,Western,OPR,Open peer review,2,0.021052631578947368
+1,Emergence,萌芽期,西部,Western,OI,Open infrastructure,70,0.7368421052631579
+1,Emergence,萌芽期,西部,Western,ORM,Open research methods,1,0.010526315789473684
+1,Emergence,萌芽期,东北,Northeastern,OA,Open access,0,0.0
+1,Emergence,萌芽期,东北,Northeastern,OD,Open data,0,0.0
+1,Emergence,萌芽期,东北,Northeastern,OSS,Open-source software,0,0.0
+1,Emergence,萌芽期,东北,Northeastern,OERs,Open educational resources,9,0.6
+1,Emergence,萌芽期,东北,Northeastern,CS,Citizen science,3,0.2
+1,Emergence,萌芽期,东北,Northeastern,OPR,Open peer review,0,0.0
+1,Emergence,萌芽期,东北,Northeastern,OI,Open infrastructure,3,0.2
+1,Emergence,萌芽期,东北,Northeastern,ORM,Open research methods,0,0.0
+2,Gradual expansion,渐进扩展期,东部,Eastern,OA,Open access,52,0.028276237085372486
+2,Gradual expansion,渐进扩展期,东部,Eastern,OD,Open data,130,0.07069059271343121
+2,Gradual expansion,渐进扩展期,东部,Eastern,OSS,Open-source software,45,0.024469820554649267
+2,Gradual expansion,渐进扩展期,东部,Eastern,OERs,Open educational resources,654,0.3556280587275693
+2,Gradual expansion,渐进扩展期,东部,Eastern,CS,Citizen science,383,0.20826536160957043
+2,Gradual expansion,渐进扩展期,东部,Eastern,OPR,Open peer review,21,0.011419249592169658
+2,Gradual expansion,渐进扩展期,东部,Eastern,OI,Open infrastructure,553,0.30070690592713434
+2,Gradual expansion,渐进扩展期,东部,Eastern,ORM,Open research methods,1,0.000543773790103317
+2,Gradual expansion,渐进扩展期,中部,Central,OA,Open access,15,0.015608740894901144
+2,Gradual expansion,渐进扩展期,中部,Central,OD,Open data,93,0.0967741935483871
+2,Gradual expansion,渐进扩展期,中部,Central,OSS,Open-source software,10,0.01040582726326743
+2,Gradual expansion,渐进扩展期,中部,Central,OERs,Open educational resources,408,0.42455775234131116
+2,Gradual expansion,渐进扩展期,中部,Central,CS,Citizen science,89,0.09261186264308012
+2,Gradual expansion,渐进扩展期,中部,Central,OPR,Open peer review,37,0.03850156087408949
+2,Gradual expansion,渐进扩展期,中部,Central,OI,Open infrastructure,309,0.3215400624349636
+2,Gradual expansion,渐进扩展期,中部,Central,ORM,Open research methods,0,0.0
+2,Gradual expansion,渐进扩展期,西部,Western,OA,Open access,33,0.03170028818443804
+2,Gradual expansion,渐进扩展期,西部,Western,OD,Open data,81,0.07780979827089338
+2,Gradual expansion,渐进扩展期,西部,Western,OSS,Open-source software,5,0.004803073967339097
+2,Gradual expansion,渐进扩展期,西部,Western,OERs,Open educational resources,382,0.366954851104707
+2,Gradual expansion,渐进扩展期,西部,Western,CS,Citizen science,154,0.14793467819404418
+2,Gradual expansion,渐进扩展期,西部,Western,OPR,Open peer review,40,0.03842459173871278
+2,Gradual expansion,渐进扩展期,西部,Western,OI,Open infrastructure,345,0.3314121037463977
+2,Gradual expansion,渐进扩展期,西部,Western,ORM,Open research methods,1,0.0009606147934678194
+2,Gradual expansion,渐进扩展期,东北,Northeastern,OA,Open access,5,0.011990407673860911
+2,Gradual expansion,渐进扩展期,东北,Northeastern,OD,Open data,19,0.045563549160671464
+2,Gradual expansion,渐进扩展期,东北,Northeastern,OSS,Open-source software,2,0.004796163069544364
+2,Gradual expansion,渐进扩展期,东北,Northeastern,OERs,Open educational resources,150,0.3597122302158273
+2,Gradual expansion,渐进扩展期,东北,Northeastern,CS,Citizen science,123,0.2949640287769784
+2,Gradual expansion,渐进扩展期,东北,Northeastern,OPR,Open peer review,6,0.014388489208633094
+2,Gradual expansion,渐进扩展期,东北,Northeastern,OI,Open infrastructure,112,0.2685851318944844
+2,Gradual expansion,渐进扩展期,东北,Northeastern,ORM,Open research methods,0,0.0
+3,Rapid expansion,快速扩张期,东部,Eastern,OA,Open access,29,0.0106539309331374
+3,Rapid expansion,快速扩张期,东部,Eastern,OD,Open data,607,0.22299779573842762
+3,Rapid expansion,快速扩张期,东部,Eastern,OSS,Open-source software,95,0.034900808229243206
+3,Rapid expansion,快速扩张期,东部,Eastern,OERs,Open educational resources,1063,0.390521675238795
+3,Rapid expansion,快速扩张期,东部,Eastern,CS,Citizen science,218,0.08008817046289493
+3,Rapid expansion,快速扩张期,东部,Eastern,OPR,Open peer review,49,0.018001469507714914
+3,Rapid expansion,快速扩张期,东部,Eastern,OI,Open infrastructure,645,0.2369581190301249
+3,Rapid expansion,快速扩张期,东部,Eastern,ORM,Open research methods,16,0.005878030859662013
+3,Rapid expansion,快速扩张期,中部,Central,OA,Open access,5,0.003209242618741977
+3,Rapid expansion,快速扩张期,中部,Central,OD,Open data,306,0.196405648267009
+3,Rapid expansion,快速扩张期,中部,Central,OSS,Open-source software,29,0.018613607188703467
+3,Rapid expansion,快速扩张期,中部,Central,OERs,Open educational resources,707,0.45378690629011553
+3,Rapid expansion,快速扩张期,中部,Central,CS,Citizen science,113,0.07252888318356868
+3,Rapid expansion,快速扩张期,中部,Central,OPR,Open peer review,27,0.017329910141206675
+3,Rapid expansion,快速扩张期,中部,Central,OI,Open infrastructure,369,0.23684210526315788
+3,Rapid expansion,快速扩张期,中部,Central,ORM,Open research methods,2,0.0012836970474967907
+3,Rapid expansion,快速扩张期,西部,Western,OA,Open access,16,0.008125952260030472
+3,Rapid expansion,快速扩张期,西部,Western,OD,Open data,452,0.22955815134586086
+3,Rapid expansion,快速扩张期,西部,Western,OSS,Open-source software,29,0.014728288471305232
+3,Rapid expansion,快速扩张期,西部,Western,OERs,Open educational resources,611,0.31030980192991364
+3,Rapid expansion,快速扩张期,西部,Western,CS,Citizen science,179,0.09090909090909091
+3,Rapid expansion,快速扩张期,西部,Western,OPR,Open peer review,31,0.01574403250380904
+3,Rapid expansion,快速扩张期,西部,Western,OI,Open infrastructure,647,0.3285931945149822
+3,Rapid expansion,快速扩张期,西部,Western,ORM,Open research methods,4,0.002031488065007618
+3,Rapid expansion,快速扩张期,东北,Northeastern,OA,Open access,0,0.0
+3,Rapid expansion,快速扩张期,东北,Northeastern,OD,Open data,95,0.1926977687626775
+3,Rapid expansion,快速扩张期,东北,Northeastern,OSS,Open-source software,6,0.012170385395537525
+3,Rapid expansion,快速扩张期,东北,Northeastern,OERs,Open educational resources,210,0.4259634888438134
+3,Rapid expansion,快速扩张期,东北,Northeastern,CS,Citizen science,13,0.02636916835699797
+3,Rapid expansion,快速扩张期,东北,Northeastern,OPR,Open peer review,18,0.036511156186612576
+3,Rapid expansion,快速扩张期,东北,Northeastern,OI,Open infrastructure,151,0.30628803245436104
+3,Rapid expansion,快速扩张期,东北,Northeastern,ORM,Open research methods,0,0.0
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,OA,Open access,30,0.008857395925597875
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,OD,Open data,699,0.20637732506643047
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,OSS,Open-source software,458,0.1352229111307942
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,OERs,Open educational resources,755,0.22291113079421318
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,CS,Citizen science,537,0.15854738706820196
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,OPR,Open peer review,27,0.007971656333038087
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,OI,Open infrastructure,859,0.25361677000295246
+4,High-level diffusion and adjustment,高位扩散与调整期,东部,Eastern,ORM,Open research methods,22,0.006495423678771774
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,OA,Open access,8,0.005536332179930796
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,OD,Open data,305,0.21107266435986158
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,OSS,Open-source software,68,0.047058823529411764
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,OERs,Open educational resources,445,0.3079584775086505
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,CS,Citizen science,238,0.16470588235294117
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,OPR,Open peer review,14,0.009688581314878892
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,OI,Open infrastructure,367,0.25397923875432526
+4,High-level diffusion and adjustment,高位扩散与调整期,中部,Central,ORM,Open research methods,0,0.0
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,OA,Open access,19,0.010209564750134336
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,OD,Open data,450,0.2418054809242343
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,OSS,Open-source software,73,0.03922622246104245
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,OERs,Open educational resources,399,0.21440085975282105
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,CS,Citizen science,237,0.12735088662009672
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,OPR,Open peer review,18,0.00967221923696937
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,OI,Open infrastructure,656,0.3524986566362171
+4,High-level diffusion and adjustment,高位扩散与调整期,西部,Western,ORM,Open research methods,9,0.004836109618484685
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,OA,Open access,4,0.007952286282306162
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,OD,Open data,89,0.17693836978131214
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,OSS,Open-source software,12,0.02385685884691849
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,OERs,Open educational resources,118,0.2345924453280318
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,CS,Citizen science,59,0.1172962226640159
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,OPR,Open peer review,3,0.005964214711729622
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,OI,Open infrastructure,217,0.43141153081510936
+4,High-level diffusion and adjustment,高位扩散与调整期,东北,Northeastern,ORM,Open research methods,1,0.0019880715705765406

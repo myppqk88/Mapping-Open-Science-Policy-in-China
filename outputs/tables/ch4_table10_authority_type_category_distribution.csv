@@ -1,0 +1,73 @@
+﻿authority_type,authority_type_en,authority_type_zh,category_code,category_name,file_authority_category_count
+public_science_culture,Public science and culture,宣传文化与公众科学,OA,Open access,40
+public_science_culture,Public science and culture,宣传文化与公众科学,OD,Open data,63
+public_science_culture,Public science and culture,宣传文化与公众科学,OSS,Open-source software,8
+public_science_culture,Public science and culture,宣传文化与公众科学,OERs,Open educational resources,118
+public_science_culture,Public science and culture,宣传文化与公众科学,CS,Citizen science,476
+public_science_culture,Public science and culture,宣传文化与公众科学,OPR,Open peer review,10
+public_science_culture,Public science and culture,宣传文化与公众科学,OI,Open infrastructure,87
+public_science_culture,Public science and culture,宣传文化与公众科学,ORM,Open research methods,1
+science_technology,Science and technology,科技创新与科研管理,OA,Open access,66
+science_technology,Science and technology,科技创新与科研管理,OD,Open data,307
+science_technology,Science and technology,科技创新与科研管理,OSS,Open-source software,66
+science_technology,Science and technology,科技创新与科研管理,OERs,Open educational resources,40
+science_technology,Science and technology,科技创新与科研管理,CS,Citizen science,238
+science_technology,Science and technology,科技创新与科研管理,OPR,Open peer review,22
+science_technology,Science and technology,科技创新与科研管理,OI,Open infrastructure,1365
+science_technology,Science and technology,科技创新与科研管理,ORM,Open research methods,1
+education_talent,Education and talent,教育与人才培养,OA,Open access,18
+education_talent,Education and talent,教育与人才培养,OD,Open data,151
+education_talent,Education and talent,教育与人才培养,OSS,Open-source software,44
+education_talent,Education and talent,教育与人才培养,OERs,Open educational resources,1975
+education_talent,Education and talent,教育与人才培养,CS,Citizen science,77
+education_talent,Education and talent,教育与人才培养,OPR,Open peer review,115
+education_talent,Education and talent,教育与人才培养,OI,Open infrastructure,289
+education_talent,Education and talent,教育与人才培养,ORM,Open research methods,5
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,OA,Open access,5
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,OD,Open data,289
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,OSS,Open-source software,177
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,OERs,Open educational resources,94
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,CS,Citizen science,13
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,OPR,Open peer review,8
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,OI,Open infrastructure,139
+digital_industry_data,"Digital, industry and data",工业信息化与数据治理,ORM,Open research methods,17
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,OA,Open access,14
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,OD,Open data,282
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,OSS,Open-source software,84
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,OERs,Open educational resources,311
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,CS,Citizen science,33
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,OPR,Open peer review,39
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,OI,Open infrastructure,460
+macro_finance,Macro planning and finance,宏观规划与财政资源配置,ORM,Open research methods,2
+sectoral_public_services,Sectoral public services,行业应用与公共服务,OA,Open access,104
+sectoral_public_services,Sectoral public services,行业应用与公共服务,OD,Open data,1910
+sectoral_public_services,Sectoral public services,行业应用与公共服务,OSS,Open-source software,275
+sectoral_public_services,Sectoral public services,行业应用与公共服务,OERs,Open educational resources,1813
+sectoral_public_services,Sectoral public services,行业应用与公共服务,CS,Citizen science,566
+sectoral_public_services,Sectoral public services,行业应用与公共服务,OPR,Open peer review,146
+sectoral_public_services,Sectoral public services,行业应用与公共服务,OI,Open infrastructure,1794
+sectoral_public_services,Sectoral public services,行业应用与公共服务,ORM,Open research methods,24
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,OA,Open access,5
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,OD,Open data,148
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,OSS,Open-source software,70
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,OERs,Open educational resources,92
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,CS,Citizen science,61
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,OPR,Open peer review,12
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,OI,Open infrastructure,172
+law_regulation_security,"Law, regulation and security",法规司法与监管安全,ORM,Open research methods,1
+party_government_general,Party-government general,党政综合与战略协调,OA,Open access,8
+party_government_general,Party-government general,党政综合与战略协调,OD,Open data,158
+party_government_general,Party-government general,党政综合与战略协调,OSS,Open-source software,31
+party_government_general,Party-government general,党政综合与战略协调,OERs,Open educational resources,195
+party_government_general,Party-government general,党政综合与战略协调,CS,Citizen science,66
+party_government_general,Party-government general,党政综合与战略协调,OPR,Open peer review,18
+party_government_general,Party-government general,党政综合与战略协调,OI,Open infrastructure,200
+party_government_general,Party-government general,党政综合与战略协调,ORM,Open research methods,0
+other_unclear,Other or unclear,其他或无法判定,OA,Open access,8
+other_unclear,Other or unclear,其他或无法判定,OD,Open data,71
+other_unclear,Other or unclear,其他或无法判定,OSS,Open-source software,19
+other_unclear,Other or unclear,其他或无法判定,OERs,Open educational resources,87
+other_unclear,Other or unclear,其他或无法判定,CS,Citizen science,37
+other_unclear,Other or unclear,其他或无法判定,OPR,Open peer review,22
+other_unclear,Other or unclear,其他或无法判定,OI,Open infrastructure,73
+other_unclear,Other or unclear,其他或无法判定,ORM,Open research methods,1

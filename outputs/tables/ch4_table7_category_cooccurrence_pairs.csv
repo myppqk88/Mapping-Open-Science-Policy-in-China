@@ -1,0 +1,29 @@
+﻿category_a,category_b,category_a_name,category_b_name,co_file_count,jaccard
+OD,OI,Open data,Open infrastructure,541,0.09528002817893624
+OD,OSS,Open data,Open-source software,207,0.069
+CS,OI,Citizen science,Open infrastructure,243,0.054853273137697514
+OD,OERs,Open data,Open educational resources,281,0.045907531449109626
+OERs,CS,Open educational resources,Citizen science,186,0.039828693790149895
+OSS,OI,Open-source software,Open infrastructure,123,0.03009542451676046
+OERs,OI,Open educational resources,Open infrastructure,185,0.025623268698060944
+OA,OI,Open access,Open infrastructure,92,0.024429102496016993
+OA,OD,Open access,Open data,67,0.024031563845050216
+OD,CS,Open data,Citizen science,84,0.023424428332403793
+OA,CS,Open access,Citizen science,28,0.02185792349726776
+OD,ORM,Open data,Open research methods,37,0.014111365369946605
+OSS,CS,Open-source software,Citizen science,19,0.011571254567600487
+OSS,OERs,Open-source software,Open educational resources,49,0.011279926335174955
+OD,OPR,Open data,Open peer review,32,0.011072664359861591
+OPR,ORM,Open peer review,Open research methods,3,0.008287292817679558
+OERs,OPR,Open educational resources,Open peer review,28,0.006862745098039216
+OSS,ORM,Open-source software,Open research methods,4,0.006191950464396285
+OA,OERs,Open access,Open educational resources,21,0.0052238805970149255
+OPR,OI,Open peer review,Open infrastructure,17,0.004350051177072671
+OA,OSS,Open access,Open-source software,3,0.0035587188612099642
+OA,ORM,Open access,Open research methods,1,0.003367003367003367
+OERs,ORM,Open educational resources,Open research methods,10,0.002607561929595828
+CS,ORM,Citizen science,Open research methods,2,0.0018001800180018
+OA,OPR,Open access,Open peer review,1,0.0017857142857142857
+OI,ORM,Open infrastructure,Open research methods,6,0.0016411378555798686
+CS,OPR,Citizen science,Open peer review,2,0.001455604075691412
+OSS,OPR,Open-source software,Open peer review,0,0.0

@@ -1,0 +1,716 @@
+{
+  "research_question": "RQ1: 中国开放科学政策的总体结构是什么？",
+  "unit_note": "File-level category distribution and co-deployment use the policy-file category matching workbook; entry-level category distribution uses coded policy entries.",
+  "total_policy_files_in_matching_table": 10425,
+  "total_policy_entries": 21258,
+  "regional_coverage": {
+    "province_count": 33,
+    "city_count": 641,
+    "top_provinces": [
+      {
+        "rank": 1,
+        "province": "江苏省",
+        "policy_file_count": 694,
+        "policy_entry_count": 1350,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 347
+      },
+      {
+        "rank": 2,
+        "province": "浙江省",
+        "policy_file_count": 664,
+        "policy_entry_count": 1099,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 444
+      },
+      {
+        "rank": 3,
+        "province": "广东省",
+        "policy_file_count": 618,
+        "policy_entry_count": 1449,
+        "category_variety": 8,
+        "dominant_category_code": "CS",
+        "dominant_category": "Citizen science",
+        "dominant_category_count": 398
+      },
+      {
+        "rank": 4,
+        "province": "山东省",
+        "policy_file_count": 512,
+        "policy_entry_count": 885,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 330
+      },
+      {
+        "rank": 5,
+        "province": "河南省",
+        "policy_file_count": 509,
+        "policy_entry_count": 1039,
+        "category_variety": 7,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 564
+      },
+      {
+        "rank": 6,
+        "province": "福建省",
+        "policy_file_count": 441,
+        "policy_entry_count": 851,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 440
+      },
+      {
+        "rank": 7,
+        "province": "广西壮族自治区",
+        "policy_file_count": 434,
+        "policy_entry_count": 747,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 242
+      },
+      {
+        "rank": 8,
+        "province": "安徽省",
+        "policy_file_count": 408,
+        "policy_entry_count": 764,
+        "category_variety": 7,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 263
+      },
+      {
+        "rank": 9,
+        "province": "陕西省",
+        "policy_file_count": 381,
+        "policy_entry_count": 765,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 320
+      },
+      {
+        "rank": 10,
+        "province": "上海市",
+        "policy_file_count": 336,
+        "policy_entry_count": 749,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 205
+      }
+    ],
+    "bottom_provinces": [
+      {
+        "rank": 24,
+        "province": "天津市",
+        "policy_file_count": 173,
+        "policy_entry_count": 288,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 102
+      },
+      {
+        "rank": 25,
+        "province": "吉林省",
+        "policy_file_count": 169,
+        "policy_entry_count": 328,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 109
+      },
+      {
+        "rank": 26,
+        "province": "内蒙古自治区",
+        "policy_file_count": 145,
+        "policy_entry_count": 293,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 94
+      },
+      {
+        "rank": 27,
+        "province": "海南省",
+        "policy_file_count": 123,
+        "policy_entry_count": 236,
+        "category_variety": 7,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 126
+      },
+      {
+        "rank": 28,
+        "province": "宁夏回族自治区",
+        "policy_file_count": 111,
+        "policy_entry_count": 279,
+        "category_variety": 8,
+        "dominant_category_code": "OD",
+        "dominant_category": "Open data",
+        "dominant_category_count": 82
+      },
+      {
+        "rank": 29,
+        "province": "新疆维吾尔自治区",
+        "policy_file_count": 99,
+        "policy_entry_count": 198,
+        "category_variety": 7,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 65
+      },
+      {
+        "rank": 30,
+        "province": "青海省",
+        "policy_file_count": 81,
+        "policy_entry_count": 154,
+        "category_variety": 7,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 62
+      },
+      {
+        "rank": 31,
+        "province": "西藏自治区",
+        "policy_file_count": 33,
+        "policy_entry_count": 68,
+        "category_variety": 5,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 28
+      },
+      {
+        "rank": 32,
+        "province": "澳门特别行政区",
+        "policy_file_count": 1,
+        "policy_entry_count": 3,
+        "category_variety": 2,
+        "dominant_category_code": "OD",
+        "dominant_category": "Open data",
+        "dominant_category_count": 2
+      },
+      {
+        "rank": 33,
+        "province": "香港特别行政区",
+        "policy_file_count": 1,
+        "policy_entry_count": 3,
+        "category_variety": 2,
+        "dominant_category_code": "OD",
+        "dominant_category": "Open data",
+        "dominant_category_count": 2
+      }
+    ],
+    "top_cities": [
+      {
+        "rank": 1,
+        "city": "吉林市",
+        "policy_file_count": 122,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 88
+      },
+      {
+        "rank": 2,
+        "city": "广州市",
+        "policy_file_count": 115,
+        "category_variety": 5,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 62
+      },
+      {
+        "rank": 3,
+        "city": "青岛市",
+        "policy_file_count": 90,
+        "category_variety": 7,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 64
+      },
+      {
+        "rank": 4,
+        "city": "深圳市",
+        "policy_file_count": 89,
+        "category_variety": 6,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 102
+      },
+      {
+        "rank": 5,
+        "city": "苏州市",
+        "policy_file_count": 88,
+        "category_variety": 7,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 56
+      },
+      {
+        "rank": 6,
+        "city": "西安市",
+        "policy_file_count": 82,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 65
+      },
+      {
+        "rank": 7,
+        "city": "南京市",
+        "policy_file_count": 80,
+        "category_variety": 6,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 49
+      },
+      {
+        "rank": 8,
+        "city": "宁波市",
+        "policy_file_count": 75,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 35
+      },
+      {
+        "rank": 9,
+        "city": "厦门市",
+        "policy_file_count": 70,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 45
+      },
+      {
+        "rank": 10,
+        "city": "济南市",
+        "policy_file_count": 70,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 76
+      }
+    ]
+  },
+  "category_distribution": [
+    {
+      "category_code": "OA",
+      "category_name": "Open access",
+      "policy_file_count": 247,
+      "policy_file_share": 0.02369304556354916,
+      "entry_count": 287,
+      "entry_share": 0.013193582494368594
+    },
+    {
+      "category_code": "OD",
+      "category_name": "Open data",
+      "policy_file_count": 2608,
+      "policy_file_share": 0.25016786570743405,
+      "entry_count": 3925,
+      "entry_share": 0.18043488254493634
+    },
+    {
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "policy_file_count": 599,
+      "policy_file_share": 0.057458033573141484,
+      "entry_count": 985,
+      "entry_share": 0.0452811106514044
+    },
+    {
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "policy_file_count": 3794,
+      "policy_file_share": 0.3639328537170264,
+      "entry_count": 7045,
+      "entry_share": 0.3238633751666437
+    },
+    {
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "policy_file_count": 1062,
+      "policy_file_share": 0.1018705035971223,
+      "entry_count": 3171,
+      "entry_share": 0.14577299682802372
+    },
+    {
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "policy_file_count": 314,
+      "policy_file_share": 0.030119904076738608,
+      "entry_count": 371,
+      "entry_share": 0.01705511883418379
+    },
+    {
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "policy_file_count": 3611,
+      "policy_file_share": 0.346378896882494,
+      "entry_count": 5911,
+      "entry_share": 0.2717326345791385
+    },
+    {
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "policy_file_count": 51,
+      "policy_file_share": 0.004892086330935252,
+      "entry_count": 58,
+      "entry_share": 0.00266629890130097
+    }
+  ],
+  "governance_category_distribution": [
+    {
+      "governance_level": "中央",
+      "category_code": "CS",
+      "entry_count": 803,
+      "entry_share": 0.24496644295302014
+    },
+    {
+      "governance_level": "中央",
+      "category_code": "OA",
+      "entry_count": 66,
+      "entry_share": 0.020134228187919462
+    },
+    {
+      "governance_level": "中央",
+      "category_code": "OD",
+      "entry_count": 573,
+      "entry_share": 0.17480170835875533
+    },
+    {
+      "governance_level": "中央",
+      "category_code": "OERs",
+      "entry_count": 1042,
+      "entry_share": 0.31787675411836486
+    },
+    {
+      "governance_level": "中央",
+      "category_code": "OI",
+      "entry_count": 589,
+      "entry_share": 0.17968273337400853
+    },
+    {
+      "governance_level": "中央",
+      "category_code": "OPR",
+      "entry_count": 74,
+      "entry_share": 0.022574740695546065
+    },
+    {
+      "governance_level": "中央",
+      "category_code": "ORM",
+      "entry_count": 1,
+      "entry_share": 0.0003050640634533252
+    },
+    {
+      "governance_level": "中央",
+      "category_code": "OSS",
+      "entry_count": 130,
+      "entry_share": 0.03965832824893228
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "CS",
+      "entry_count": 1618,
+      "entry_share": 0.18453467153284672
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "OA",
+      "entry_count": 106,
+      "entry_share": 0.012089416058394161
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "OD",
+      "entry_count": 1788,
+      "entry_share": 0.20392335766423358
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "OERs",
+      "entry_count": 2266,
+      "entry_share": 0.2584397810218978
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "OI",
+      "entry_count": 2421,
+      "entry_share": 0.27611770072992703
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "OPR",
+      "entry_count": 126,
+      "entry_share": 0.01437043795620438
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "ORM",
+      "entry_count": 35,
+      "entry_share": 0.0039917883211678835
+    },
+    {
+      "governance_level": "地市级",
+      "category_code": "OSS",
+      "entry_count": 408,
+      "entry_share": 0.046532846715328466
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "CS",
+      "entry_count": 750,
+      "entry_share": 0.07726383022561038
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "OA",
+      "entry_count": 115,
+      "entry_share": 0.011847120634593592
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "OD",
+      "entry_count": 1564,
+      "entry_share": 0.16112084063047286
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "OERs",
+      "entry_count": 3737,
+      "entry_share": 0.38497991140414134
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "OI",
+      "entry_count": 2901,
+      "entry_share": 0.29885649531266095
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "OPR",
+      "entry_count": 171,
+      "entry_share": 0.017616153291439167
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "ORM",
+      "entry_count": 22,
+      "entry_share": 0.0022664056866179044
+    },
+    {
+      "governance_level": "省级",
+      "category_code": "OSS",
+      "entry_count": 447,
+      "entry_share": 0.04604924281446379
+    }
+  ],
+  "top_file_coverage_category": {
+    "category_code": "OERs",
+    "category_name": "Open educational resources",
+    "policy_file_count": 3794,
+    "policy_file_share": 0.3639328537170264,
+    "entry_count": 7045,
+    "entry_share": 0.3238633751666437
+  },
+  "lowest_file_coverage_category": {
+    "category_code": "ORM",
+    "category_name": "Open research methods",
+    "policy_file_count": 51,
+    "policy_file_share": 0.004892086330935252,
+    "entry_count": 58,
+    "entry_share": 0.00266629890130097
+  },
+  "explicit_open_science_policy_files": {
+    "count": 80,
+    "share": 0.007674
+  },
+  "multi_category_policy_files": {
+    "count": 1577,
+    "share": 0.151271
+  },
+  "joint_issuance_policy_files": {
+    "count": 1109,
+    "share": 0.106379
+  },
+  "policy_carrier_distribution": [
+    {
+      "legal_force_group": "Working documents",
+      "policy_file_count": 7591,
+      "share": 0.7281534772182254,
+      "representative_files": "Work plans; implementation programmes; government information disclosure annual reports."
+    },
+    {
+      "legal_force_group": "Normative documents",
+      "policy_file_count": 2354,
+      "share": 0.2258033573141487,
+      "representative_files": "Policy opinions; planning outlines; administrative measures; guidelines."
+    },
+    {
+      "legal_force_group": "Party, group and industry rules",
+      "policy_file_count": 297,
+      "share": 0.028489208633093524,
+      "representative_files": "Party documents; association standards; industry practice rules."
+    },
+    {
+      "legal_force_group": "Laws and regulations",
+      "policy_file_count": 159,
+      "share": 0.01525179856115108,
+      "representative_files": "Local regulations; administrative regulations; legislative decisions."
+    },
+    {
+      "legal_force_group": "Rules",
+      "policy_file_count": 24,
+      "share": 0.002302158273381295,
+      "representative_files": "Departmental rules; local government rules on data, information and public services."
+    }
+  ],
+  "authority_type_distribution": [
+    {
+      "authority_type": "sectoral_public_services",
+      "authority_type_zh": "行业应用与公共服务",
+      "authority_type_en": "Sectoral public services",
+      "occurrence_count": 5341
+    },
+    {
+      "authority_type": "education_talent",
+      "authority_type_zh": "教育与人才培养",
+      "authority_type_en": "Education and talent",
+      "occurrence_count": 2460
+    },
+    {
+      "authority_type": "science_technology",
+      "authority_type_zh": "科技创新与科研管理",
+      "authority_type_en": "Science and technology",
+      "occurrence_count": 1807
+    },
+    {
+      "authority_type": "macro_finance",
+      "authority_type_zh": "宏观规划与财政资源配置",
+      "authority_type_en": "Macro planning and finance",
+      "occurrence_count": 1029
+    },
+    {
+      "authority_type": "public_science_culture",
+      "authority_type_zh": "宣传文化与公众科学",
+      "authority_type_en": "Public science and culture",
+      "occurrence_count": 707
+    },
+    {
+      "authority_type": "digital_industry_data",
+      "authority_type_zh": "工业信息化与数据治理",
+      "authority_type_en": "Digital, industry and data",
+      "occurrence_count": 574
+    },
+    {
+      "authority_type": "party_government_general",
+      "authority_type_zh": "党政综合与战略协调",
+      "authority_type_en": "Party-government general",
+      "occurrence_count": 523
+    },
+    {
+      "authority_type": "law_regulation_security",
+      "authority_type_zh": "法规司法与监管安全",
+      "authority_type_en": "Law, regulation and security",
+      "occurrence_count": 464
+    },
+    {
+      "authority_type": "other_unclear",
+      "authority_type_zh": "其他或无法判定",
+      "authority_type_en": "Other or unclear",
+      "occurrence_count": 285
+    }
+  ],
+  "top_category_cooccurrence_pairs": [
+    {
+      "category_a": "OD",
+      "category_b": "OI",
+      "category_a_name": "Open data",
+      "category_b_name": "Open infrastructure",
+      "co_file_count": 541,
+      "jaccard": 0.09528002817893624
+    },
+    {
+      "category_a": "OD",
+      "category_b": "OSS",
+      "category_a_name": "Open data",
+      "category_b_name": "Open-source software",
+      "co_file_count": 207,
+      "jaccard": 0.069
+    },
+    {
+      "category_a": "CS",
+      "category_b": "OI",
+      "category_a_name": "Citizen science",
+      "category_b_name": "Open infrastructure",
+      "co_file_count": 243,
+      "jaccard": 0.054853273137697514
+    },
+    {
+      "category_a": "OD",
+      "category_b": "OERs",
+      "category_a_name": "Open data",
+      "category_b_name": "Open educational resources",
+      "co_file_count": 281,
+      "jaccard": 0.045907531449109626
+    },
+    {
+      "category_a": "OERs",
+      "category_b": "CS",
+      "category_a_name": "Open educational resources",
+      "category_b_name": "Citizen science",
+      "co_file_count": 186,
+      "jaccard": 0.039828693790149895
+    },
+    {
+      "category_a": "OSS",
+      "category_b": "OI",
+      "category_a_name": "Open-source software",
+      "category_b_name": "Open infrastructure",
+      "co_file_count": 123,
+      "jaccard": 0.03009542451676046
+    },
+    {
+      "category_a": "OERs",
+      "category_b": "OI",
+      "category_a_name": "Open educational resources",
+      "category_b_name": "Open infrastructure",
+      "co_file_count": 185,
+      "jaccard": 0.025623268698060944
+    },
+    {
+      "category_a": "OA",
+      "category_b": "OI",
+      "category_a_name": "Open access",
+      "category_b_name": "Open infrastructure",
+      "co_file_count": 92,
+      "jaccard": 0.024429102496016993
+    },
+    {
+      "category_a": "OA",
+      "category_b": "OD",
+      "category_a_name": "Open access",
+      "category_b_name": "Open data",
+      "co_file_count": 67,
+      "jaccard": 0.024031563845050216
+    },
+    {
+      "category_a": "OD",
+      "category_b": "CS",
+      "category_a_name": "Open data",
+      "category_b_name": "Citizen science",
+      "co_file_count": 84,
+      "jaccard": 0.023424428332403793
+    }
+  ]
+}

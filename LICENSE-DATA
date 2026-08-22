@@ -1,0 +1,31 @@
+Attribution 4.0 International (CC BY 4.0)
+
+All data files in `data/` and derived tables/figures in `outputs/` of this
+repository, together with the documentation in `docs/` and `README.md`, are
+licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the licence
+terms.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the
+    licence, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the licence permits.
+
+To cite this dataset, please use the citation in CITATION.cff or the
+following format:
+
+    [Author list]. (2026). Replication data for "Mapping Open Science Policy
+    in China: A Structural, Temporal, and Spatial Analysis." [Dataset].
+    GitHub. https://github.com/[user]/[repo]
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode

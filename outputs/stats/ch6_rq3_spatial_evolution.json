@@ -1,0 +1,1871 @@
+{
+  "research_question": "RQ3: 中国开放科学政策在空间上如何演化？",
+  "unit_note": "6.1 uses policy-file counts; 6.2 and 6.3 use entry-level category shares.",
+  "excluded_region_note": "Hong Kong and Macao records are excluded from the four-region mainland classification.",
+  "spatial_distribution": {
+    "province_count": 33,
+    "city_count": 641,
+    "top_provinces": [
+      {
+        "rank": 1,
+        "province": "江苏省",
+        "policy_file_count": 694,
+        "policy_entry_count": 1350,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 347
+      },
+      {
+        "rank": 2,
+        "province": "浙江省",
+        "policy_file_count": 664,
+        "policy_entry_count": 1099,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 444
+      },
+      {
+        "rank": 3,
+        "province": "广东省",
+        "policy_file_count": 618,
+        "policy_entry_count": 1449,
+        "category_variety": 8,
+        "dominant_category_code": "CS",
+        "dominant_category": "Citizen science",
+        "dominant_category_count": 398
+      },
+      {
+        "rank": 4,
+        "province": "山东省",
+        "policy_file_count": 512,
+        "policy_entry_count": 885,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 330
+      },
+      {
+        "rank": 5,
+        "province": "河南省",
+        "policy_file_count": 509,
+        "policy_entry_count": 1039,
+        "category_variety": 7,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 564
+      },
+      {
+        "rank": 6,
+        "province": "福建省",
+        "policy_file_count": 441,
+        "policy_entry_count": 851,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 440
+      },
+      {
+        "rank": 7,
+        "province": "广西壮族自治区",
+        "policy_file_count": 434,
+        "policy_entry_count": 747,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 242
+      },
+      {
+        "rank": 8,
+        "province": "安徽省",
+        "policy_file_count": 408,
+        "policy_entry_count": 764,
+        "category_variety": 7,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 263
+      },
+      {
+        "rank": 9,
+        "province": "陕西省",
+        "policy_file_count": 381,
+        "policy_entry_count": 765,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 320
+      },
+      {
+        "rank": 10,
+        "province": "上海市",
+        "policy_file_count": 336,
+        "policy_entry_count": 749,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 205
+      }
+    ],
+    "top_cities": [
+      {
+        "rank": 1,
+        "city": "吉林市",
+        "policy_file_count": 122,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 88
+      },
+      {
+        "rank": 2,
+        "city": "广州市",
+        "policy_file_count": 115,
+        "category_variety": 5,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 62
+      },
+      {
+        "rank": 3,
+        "city": "青岛市",
+        "policy_file_count": 90,
+        "category_variety": 7,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 64
+      },
+      {
+        "rank": 4,
+        "city": "深圳市",
+        "policy_file_count": 89,
+        "category_variety": 6,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 102
+      },
+      {
+        "rank": 5,
+        "city": "苏州市",
+        "policy_file_count": 88,
+        "category_variety": 7,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 56
+      },
+      {
+        "rank": 6,
+        "city": "西安市",
+        "policy_file_count": 82,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 65
+      },
+      {
+        "rank": 7,
+        "city": "南京市",
+        "policy_file_count": 80,
+        "category_variety": 6,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 49
+      },
+      {
+        "rank": 8,
+        "city": "宁波市",
+        "policy_file_count": 75,
+        "category_variety": 8,
+        "dominant_category_code": "OERs",
+        "dominant_category": "Open educational resources",
+        "dominant_category_count": 35
+      },
+      {
+        "rank": 9,
+        "city": "厦门市",
+        "policy_file_count": 70,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 45
+      },
+      {
+        "rank": 10,
+        "city": "济南市",
+        "policy_file_count": 70,
+        "category_variety": 8,
+        "dominant_category_code": "OI",
+        "dominant_category": "Open infrastructure",
+        "dominant_category_count": 76
+      }
+    ]
+  },
+  "region_category_distribution": [
+    {
+      "region": "东部",
+      "category_code": "OA",
+      "entry_count": 111,
+      "region_en": "Eastern",
+      "category_name": "Open access",
+      "entry_share": 0.013783683099466038
+    },
+    {
+      "region": "东部",
+      "category_code": "OD",
+      "entry_count": 1438,
+      "region_en": "Eastern",
+      "category_name": "Open data",
+      "entry_share": 0.17856699366695641
+    },
+    {
+      "region": "东部",
+      "category_code": "OSS",
+      "entry_count": 602,
+      "region_en": "Eastern",
+      "category_name": "Open-source software",
+      "entry_share": 0.07475474978268969
+    },
+    {
+      "region": "东部",
+      "category_code": "OERs",
+      "entry_count": 2531,
+      "region_en": "Eastern",
+      "category_name": "Open educational resources",
+      "entry_share": 0.31429281013286975
+    },
+    {
+      "region": "东部",
+      "category_code": "CS",
+      "entry_count": 1155,
+      "region_en": "Eastern",
+      "category_name": "Citizen science",
+      "entry_share": 0.14342481062957904
+    },
+    {
+      "region": "东部",
+      "category_code": "OPR",
+      "entry_count": 97,
+      "region_en": "Eastern",
+      "category_name": "Open peer review",
+      "entry_share": 0.012045200546380232
+    },
+    {
+      "region": "东部",
+      "category_code": "OI",
+      "entry_count": 2080,
+      "region_en": "Eastern",
+      "category_name": "Open infrastructure",
+      "entry_share": 0.2582888364584627
+    },
+    {
+      "region": "东部",
+      "category_code": "ORM",
+      "entry_count": 39,
+      "region_en": "Eastern",
+      "category_name": "Open research methods",
+      "entry_share": 0.004842915683596175
+    },
+    {
+      "region": "中部",
+      "category_code": "OA",
+      "entry_count": 28,
+      "region_en": "Central",
+      "category_name": "Open access",
+      "entry_share": 0.0070052539404553416
+    },
+    {
+      "region": "中部",
+      "category_code": "OD",
+      "entry_count": 711,
+      "region_en": "Central",
+      "category_name": "Open data",
+      "entry_share": 0.17788341255941956
+    },
+    {
+      "region": "中部",
+      "category_code": "OSS",
+      "entry_count": 107,
+      "region_en": "Central",
+      "category_name": "Open-source software",
+      "entry_share": 0.026770077558168626
+    },
+    {
+      "region": "中部",
+      "category_code": "OERs",
+      "entry_count": 1582,
+      "region_en": "Central",
+      "category_name": "Open educational resources",
+      "entry_share": 0.3957968476357268
+    },
+    {
+      "region": "中部",
+      "category_code": "CS",
+      "entry_count": 441,
+      "region_en": "Central",
+      "category_name": "Citizen science",
+      "entry_share": 0.11033274956217162
+    },
+    {
+      "region": "中部",
+      "category_code": "OPR",
+      "entry_count": 79,
+      "region_en": "Central",
+      "category_name": "Open peer review",
+      "entry_share": 0.019764823617713284
+    },
+    {
+      "region": "中部",
+      "category_code": "OI",
+      "entry_count": 1047,
+      "region_en": "Central",
+      "category_name": "Open infrastructure",
+      "entry_share": 0.2619464598448837
+    },
+    {
+      "region": "中部",
+      "category_code": "ORM",
+      "entry_count": 2,
+      "region_en": "Central",
+      "category_name": "Open research methods",
+      "entry_share": 0.0005003752814610958
+    },
+    {
+      "region": "西部",
+      "category_code": "OA",
+      "entry_count": 72,
+      "region_en": "Western",
+      "category_name": "Open access",
+      "entry_share": 0.01449859041482078
+    },
+    {
+      "region": "西部",
+      "category_code": "OD",
+      "entry_count": 989,
+      "region_en": "Western",
+      "category_name": "Open data",
+      "entry_share": 0.1991542488924688
+    },
+    {
+      "region": "西部",
+      "category_code": "OSS",
+      "entry_count": 107,
+      "region_en": "Western",
+      "category_name": "Open-source software",
+      "entry_share": 0.021546516310914216
+    },
+    {
+      "region": "西部",
+      "category_code": "OERs",
+      "entry_count": 1402,
+      "region_en": "Western",
+      "category_name": "Open educational resources",
+      "entry_share": 0.2823197744663713
+    },
+    {
+      "region": "西部",
+      "category_code": "CS",
+      "entry_count": 572,
+      "region_en": "Western",
+      "category_name": "Citizen science",
+      "entry_share": 0.11518324607329843
+    },
+    {
+      "region": "西部",
+      "category_code": "OPR",
+      "entry_count": 91,
+      "region_en": "Western",
+      "category_name": "Open peer review",
+      "entry_share": 0.01832460732984293
+    },
+    {
+      "region": "西部",
+      "category_code": "OI",
+      "entry_count": 1718,
+      "region_en": "Western",
+      "category_name": "Open infrastructure",
+      "entry_share": 0.3459524768425292
+    },
+    {
+      "region": "西部",
+      "category_code": "ORM",
+      "entry_count": 15,
+      "region_en": "Western",
+      "category_name": "Open research methods",
+      "entry_share": 0.0030205396697543293
+    },
+    {
+      "region": "东北",
+      "category_code": "OA",
+      "entry_count": 9,
+      "region_en": "Northeastern",
+      "category_name": "Open access",
+      "entry_share": 0.0063025210084033615
+    },
+    {
+      "region": "东北",
+      "category_code": "OD",
+      "entry_count": 203,
+      "region_en": "Northeastern",
+      "category_name": "Open data",
+      "entry_share": 0.14215686274509803
+    },
+    {
+      "region": "东北",
+      "category_code": "OSS",
+      "entry_count": 20,
+      "region_en": "Northeastern",
+      "category_name": "Open-source software",
+      "entry_share": 0.014005602240896359
+    },
+    {
+      "region": "东北",
+      "category_code": "OERs",
+      "entry_count": 487,
+      "region_en": "Northeastern",
+      "category_name": "Open educational resources",
+      "entry_share": 0.34103641456582634
+    },
+    {
+      "region": "东北",
+      "category_code": "CS",
+      "entry_count": 198,
+      "region_en": "Northeastern",
+      "category_name": "Citizen science",
+      "entry_share": 0.13865546218487396
+    },
+    {
+      "region": "东北",
+      "category_code": "OPR",
+      "entry_count": 27,
+      "region_en": "Northeastern",
+      "category_name": "Open peer review",
+      "entry_share": 0.018907563025210083
+    },
+    {
+      "region": "东北",
+      "category_code": "OI",
+      "entry_count": 483,
+      "region_en": "Northeastern",
+      "category_name": "Open infrastructure",
+      "entry_share": 0.3382352941176471
+    },
+    {
+      "region": "东北",
+      "category_code": "ORM",
+      "entry_count": 1,
+      "region_en": "Northeastern",
+      "category_name": "Open research methods",
+      "entry_share": 0.0007002801120448179
+    }
+  ],
+  "stage_region_category_distribution": [
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 2,
+      "entry_share": 0.01904761904761905
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 4,
+      "entry_share": 0.0380952380952381
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 59,
+      "entry_share": 0.5619047619047619
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 17,
+      "entry_share": 0.1619047619047619
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 23,
+      "entry_share": 0.21904761904761905
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 7,
+      "entry_share": 0.21212121212121213
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 22,
+      "entry_share": 0.6666666666666666
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 1,
+      "entry_share": 0.030303030303030304
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 1,
+      "entry_share": 0.030303030303030304
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 2,
+      "entry_share": 0.06060606060606061
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 4,
+      "entry_share": 0.042105263157894736
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 6,
+      "entry_share": 0.06315789473684211
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 10,
+      "entry_share": 0.10526315789473684
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 2,
+      "entry_share": 0.021052631578947368
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 2,
+      "entry_share": 0.021052631578947368
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 70,
+      "entry_share": 0.7368421052631579
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 1,
+      "entry_share": 0.010526315789473684
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 9,
+      "entry_share": 0.6
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 3,
+      "entry_share": 0.2
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 3,
+      "entry_share": 0.2
+    },
+    {
+      "stage_id": 1,
+      "stage_name": "Emergence",
+      "stage_name_zh": "萌芽期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 52,
+      "entry_share": 0.028276237085372486
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 130,
+      "entry_share": 0.07069059271343121
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 45,
+      "entry_share": 0.024469820554649267
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 654,
+      "entry_share": 0.3556280587275693
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 383,
+      "entry_share": 0.20826536160957043
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 21,
+      "entry_share": 0.011419249592169658
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 553,
+      "entry_share": 0.30070690592713434
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 1,
+      "entry_share": 0.000543773790103317
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 15,
+      "entry_share": 0.015608740894901144
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 93,
+      "entry_share": 0.0967741935483871
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 10,
+      "entry_share": 0.01040582726326743
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 408,
+      "entry_share": 0.42455775234131116
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 89,
+      "entry_share": 0.09261186264308012
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 37,
+      "entry_share": 0.03850156087408949
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 309,
+      "entry_share": 0.3215400624349636
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 33,
+      "entry_share": 0.03170028818443804
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 81,
+      "entry_share": 0.07780979827089338
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 5,
+      "entry_share": 0.004803073967339097
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 382,
+      "entry_share": 0.366954851104707
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 154,
+      "entry_share": 0.14793467819404418
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 40,
+      "entry_share": 0.03842459173871278
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 345,
+      "entry_share": 0.3314121037463977
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 1,
+      "entry_share": 0.0009606147934678194
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 5,
+      "entry_share": 0.011990407673860911
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 19,
+      "entry_share": 0.045563549160671464
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 2,
+      "entry_share": 0.004796163069544364
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 150,
+      "entry_share": 0.3597122302158273
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 123,
+      "entry_share": 0.2949640287769784
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 6,
+      "entry_share": 0.014388489208633094
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 112,
+      "entry_share": 0.2685851318944844
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Gradual expansion",
+      "stage_name_zh": "渐进扩展期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 29,
+      "entry_share": 0.0106539309331374
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 607,
+      "entry_share": 0.22299779573842762
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 95,
+      "entry_share": 0.034900808229243206
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 1063,
+      "entry_share": 0.390521675238795
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 218,
+      "entry_share": 0.08008817046289493
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 49,
+      "entry_share": 0.018001469507714914
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 645,
+      "entry_share": 0.2369581190301249
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 16,
+      "entry_share": 0.005878030859662013
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 5,
+      "entry_share": 0.003209242618741977
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 306,
+      "entry_share": 0.196405648267009
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 29,
+      "entry_share": 0.018613607188703467
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 707,
+      "entry_share": 0.45378690629011553
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 113,
+      "entry_share": 0.07252888318356868
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 27,
+      "entry_share": 0.017329910141206675
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 369,
+      "entry_share": 0.23684210526315788
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 2,
+      "entry_share": 0.0012836970474967907
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 16,
+      "entry_share": 0.008125952260030472
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 452,
+      "entry_share": 0.22955815134586086
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 29,
+      "entry_share": 0.014728288471305232
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 611,
+      "entry_share": 0.31030980192991364
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 179,
+      "entry_share": 0.09090909090909091
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 31,
+      "entry_share": 0.01574403250380904
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 647,
+      "entry_share": 0.3285931945149822
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 4,
+      "entry_share": 0.002031488065007618
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 95,
+      "entry_share": 0.1926977687626775
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 6,
+      "entry_share": 0.012170385395537525
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 210,
+      "entry_share": 0.4259634888438134
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 13,
+      "entry_share": 0.02636916835699797
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 18,
+      "entry_share": 0.036511156186612576
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 151,
+      "entry_share": 0.30628803245436104
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Rapid expansion",
+      "stage_name_zh": "快速扩张期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 30,
+      "entry_share": 0.008857395925597875
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 699,
+      "entry_share": 0.20637732506643047
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 458,
+      "entry_share": 0.1352229111307942
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 755,
+      "entry_share": 0.22291113079421318
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 537,
+      "entry_share": 0.15854738706820196
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 27,
+      "entry_share": 0.007971656333038087
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 859,
+      "entry_share": 0.25361677000295246
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东部",
+      "region_en": "Eastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 22,
+      "entry_share": 0.006495423678771774
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 8,
+      "entry_share": 0.005536332179930796
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 305,
+      "entry_share": 0.21107266435986158
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 68,
+      "entry_share": 0.047058823529411764
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 445,
+      "entry_share": 0.3079584775086505
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 238,
+      "entry_share": 0.16470588235294117
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 14,
+      "entry_share": 0.009688581314878892
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 367,
+      "entry_share": 0.25397923875432526
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "中部",
+      "region_en": "Central",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 0,
+      "entry_share": 0.0
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 19,
+      "entry_share": 0.010209564750134336
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 450,
+      "entry_share": 0.2418054809242343
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 73,
+      "entry_share": 0.03922622246104245
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 399,
+      "entry_share": 0.21440085975282105
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 237,
+      "entry_share": 0.12735088662009672
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 18,
+      "entry_share": 0.00967221923696937
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 656,
+      "entry_share": 0.3524986566362171
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "西部",
+      "region_en": "Western",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 9,
+      "entry_share": 0.004836109618484685
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OA",
+      "category_name": "Open access",
+      "entry_count": 4,
+      "entry_share": 0.007952286282306162
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OD",
+      "category_name": "Open data",
+      "entry_count": 89,
+      "entry_share": 0.17693836978131214
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OSS",
+      "category_name": "Open-source software",
+      "entry_count": 12,
+      "entry_share": 0.02385685884691849
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OERs",
+      "category_name": "Open educational resources",
+      "entry_count": 118,
+      "entry_share": 0.2345924453280318
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "CS",
+      "category_name": "Citizen science",
+      "entry_count": 59,
+      "entry_share": 0.1172962226640159
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OPR",
+      "category_name": "Open peer review",
+      "entry_count": 3,
+      "entry_share": 0.005964214711729622
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "OI",
+      "category_name": "Open infrastructure",
+      "entry_count": 217,
+      "entry_share": 0.43141153081510936
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "High-level diffusion and adjustment",
+      "stage_name_zh": "高位扩散与调整期",
+      "region": "东北",
+      "region_en": "Northeastern",
+      "category_code": "ORM",
+      "category_name": "Open research methods",
+      "entry_count": 1,
+      "entry_share": 0.0019880715705765406
+    }
+  ]
+}

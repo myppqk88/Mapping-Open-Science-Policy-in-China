@@ -1,0 +1,5 @@
+S2_quadrant,HH,HL,LH,LL
+HH,13,0,1,0
+HL,0,0,0,2
+LH,0,0,2,0
+LL,0,3,0,10

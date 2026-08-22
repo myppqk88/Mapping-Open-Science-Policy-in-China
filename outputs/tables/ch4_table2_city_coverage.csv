@@ -1,0 +1,642 @@
+﻿rank,city,policy_file_count,category_variety,dominant_category_code,dominant_category,dominant_category_count
+1,吉林市,122,8,OI,Open infrastructure,88
+2,广州市,115,5,OERs,Open educational resources,62
+3,青岛市,90,7,OI,Open infrastructure,64
+4,深圳市,89,6,OI,Open infrastructure,102
+5,苏州市,88,7,OI,Open infrastructure,56
+6,西安市,82,8,OERs,Open educational resources,65
+7,南京市,80,6,OI,Open infrastructure,49
+8,宁波市,75,8,OERs,Open educational resources,35
+9,厦门市,70,8,OI,Open infrastructure,45
+10,济南市,70,8,OI,Open infrastructure,76
+11,郑州市,65,7,OD,Open data,63
+12,成都市,61,6,OI,Open infrastructure,46
+13,杭州市,56,8,OERs,Open educational resources,25
+14,武汉市,56,6,OI,Open infrastructure,21
+15,合肥市,52,6,OERs,Open educational resources,29
+16,沈阳市,47,6,OI,Open infrastructure,33
+17,福州市,45,8,OERs,Open educational resources,52
+18,无锡市,44,7,OI,Open infrastructure,29
+19,淄博市,41,7,OI,Open infrastructure,27
+20,石家庄市,39,5,OI,Open infrastructure,40
+21,南昌市,38,4,OERs,Open educational resources,23
+22,珠海市,36,6,OI,Open infrastructure,19
+23,南宁市,36,6,OI,Open infrastructure,32
+24,大连市,36,5,OERs,Open educational resources,32
+25,贵阳市,36,8,OD,Open data,22
+26,泉州市,35,4,OERs,Open educational resources,28
+27,邯郸市,33,4,OI,Open infrastructure,19
+28,昆明市,32,6,OD,Open data,19
+29,长沙市,30,6,OI,Open infrastructure,12
+30,东营市,28,6,OI,Open infrastructure,19
+31,淮南市,28,6,OERs,Open educational resources,23
+32,南通市,27,5,CS,Citizen science,21
+33,银川市,26,7,OD,Open data,17
+34,新乡市,26,5,OD,Open data,13
+35,常州市,25,6,OERs,Open educational resources,19
+36,扬州市,25,5,CS,Citizen science,19
+37,襄阳市,24,6,CS,Citizen science,13
+38,太原市,24,5,OI,Open infrastructure,28
+39,兰州市,22,4,OI,Open infrastructure,15
+40,鞍山市,22,5,CS,Citizen science,17
+41,徐州市,22,5,OI,Open infrastructure,12
+42,三明市,22,4,OERs,Open educational resources,20
+43,温州市,22,4,OERs,Open educational resources,14
+44,安阳市,22,6,OI,Open infrastructure,28
+45,宁德市,20,4,OERs,Open educational resources,13
+46,洛阳市,20,6,OI,Open infrastructure,12
+47,忻州市,19,4,OI,Open infrastructure,15
+48,长春市,19,6,OI,Open infrastructure,18
+49,台州市,19,5,OI,Open infrastructure,12
+50,宿迁市,18,5,OD,Open data,11
+51,江门市,18,5,CS,Citizen science,28
+52,衢州市,18,5,OI,Open infrastructure,10
+53,马鞍山市,18,4,OI,Open infrastructure,28
+54,镇江市,18,5,CS,Citizen science,26
+55,滁州市,17,5,CS,Citizen science,13
+56,普洱市,17,4,OERs,Open educational resources,11
+57,赣州市,17,5,OERs,Open educational resources,14
+58,烟台市,16,5,OD,Open data,8
+59,汕头市,16,4,OI,Open infrastructure,13
+60,佛山市,16,8,OI,Open infrastructure,12
+61,哈尔滨市,16,4,CS,Citizen science,9
+62,梅州市,15,5,OD,Open data,8
+63,楚雄彝族自治州,15,4,OERs,Open educational resources,11
+64,湖州市,15,3,OERs,Open educational resources,13
+65,蚌埠市,15,3,OERs,Open educational resources,9
+66,广安市,14,5,OD,Open data,18
+67,青浦区,14,5,CS,Citizen science,23
+68,绍兴市,14,4,OI,Open infrastructure,15
+69,德州市,14,4,CS,Citizen science,11
+70,淮安市,14,5,CS,Citizen science,10
+71,桂林市,14,6,OD,Open data,8
+72,遵义市,13,5,OI,Open infrastructure,17
+73,包头市,13,6,OD,Open data,7
+74,丽水市,13,6,OD,Open data,10
+75,金昌市,13,4,OI,Open infrastructure,7
+76,十堰市,13,5,OD,Open data,7
+77,内江市,13,4,OI,Open infrastructure,7
+78,舟山市,13,5,OI,Open infrastructure,11
+79,沧州市,13,3,OI,Open infrastructure,7
+80,宜昌市,13,4,OERs,Open educational resources,10
+81,枣庄市,13,4,OI,Open infrastructure,11
+82,泰州市,13,5,CS,Citizen science,8
+83,芜湖市,13,6,CS,Citizen science,13
+84,惠州市,13,6,CS,Citizen science,12
+85,葫芦岛市,13,5,OERs,Open educational resources,8
+86,咸阳市,13,4,OERs,Open educational resources,6
+87,鄂尔多斯市,12,6,OERs,Open educational resources,11
+88,中山市,12,4,CS,Citizen science,10
+89,平顶山市,12,4,OERs,Open educational resources,9
+90,许昌市,12,5,OD,Open data,8
+91,鹰潭市,12,4,OERs,Open educational resources,9
+92,滨州市,12,5,CS,Citizen science,11
+93,威海市,12,5,OD,Open data,6
+94,南平市,12,4,OD,Open data,6
+95,漳州市,12,3,OERs,Open educational resources,6
+96,抚顺市,12,4,CS,Citizen science,10
+97,宝鸡市,12,5,CS,Citizen science,16
+98,廊坊市,12,4,OI,Open infrastructure,10
+99,双鸭山市,12,4,OI,Open infrastructure,5
+100,亳州市,11,4,OERs,Open educational resources,8
+101,淮北市,11,5,CS,Citizen science,12
+102,晋城市,11,3,OERs,Open educational resources,6
+103,开封市,11,5,OI,Open infrastructure,5
+104,本溪市,11,6,OD,Open data,6
+105,连云港市,11,3,OI,Open infrastructure,7
+106,衡水市,11,4,OI,Open infrastructure,7
+107,平凉市,11,5,OERs,Open educational resources,7
+108,天水市,11,3,OI,Open infrastructure,8
+109,嘉峪关市,11,4,CS,Citizen science,11
+110,菏泽市,11,3,OD,Open data,6
+111,嘉兴市,11,5,CS,Citizen science,18
+112,萍乡市,11,4,CS,Citizen science,12
+113,唐山市,11,5,CS,Citizen science,8
+114,六盘水市,10,4,OD,Open data,6
+115,曲靖市,10,5,CS,Citizen science,6
+116,呼和浩特市,10,4,OI,Open infrastructure,8
+117,鹤壁市,10,4,OD,Open data,7
+118,金华市,10,3,OI,Open infrastructure,5
+119,百色市,10,4,OERs,Open educational resources,5
+120,达州市,10,3,OERs,Open educational resources,6
+121,怒江傈僳族自治州,10,4,CS,Citizen science,13
+122,遂宁市,10,4,CS,Citizen science,12
+123,红河哈尼族彝族自治州,10,4,CS,Citizen science,13
+124,宣城市,10,3,OERs,Open educational resources,6
+125,朝阳市,10,5,OERs,Open educational resources,10
+126,南阳市,9,4,OERs,Open educational resources,5
+127,新余市,9,4,OERs,Open educational resources,7
+128,大同市,9,5,CS,Citizen science,7
+129,四平市,9,4,OERs,Open educational resources,7
+130,邵阳市,9,5,CS,Citizen science,6
+131,运城市,9,3,OERs,Open educational resources,7
+132,辽阳市,9,4,OD,Open data,6
+133,肇庆市,9,5,CS,Citizen science,22
+134,龙岩市,9,3,OD,Open data,4
+135,焦作市,9,5,OERs,Open educational resources,6
+136,崇左市,9,6,OD,Open data,6
+137,伊春市,9,4,OI,Open infrastructure,6
+138,德阳市,9,4,OI,Open infrastructure,5
+139,临沂市,9,5,OI,Open infrastructure,8
+140,濮阳市,9,4,OD,Open data,5
+141,牡丹江市,9,4,OI,Open infrastructure,4
+142,白银市,9,5,OI,Open infrastructure,5
+143,九江市,9,4,OD,Open data,7
+144,盘锦市,9,3,OD,Open data,5
+145,宜宾市,9,4,OI,Open infrastructure,8
+146,宿州市,8,5,CS,Citizen science,8
+147,泰安市,8,3,OD,Open data,10
+148,梧州市,8,5,OERs,Open educational resources,5
+149,辽源市,8,4,OERs,Open educational resources,6
+150,眉山市,8,4,OD,Open data,9
+151,呼伦贝尔市,8,4,OD,Open data,5
+152,嘉定区,8,4,OI,Open infrastructure,6
+153,信阳市,8,5,OI,Open infrastructure,4
+154,安顺市,8,5,CS,Citizen science,9
+155,吕梁市,8,5,OD,Open data,5
+156,郴州市,8,3,OI,Open infrastructure,5
+157,盐城市,8,3,OD,Open data,5
+158,玉林市,8,5,OERs,Open educational resources,3
+159,北海市,8,4,OI,Open infrastructure,4
+160,阜阳市,8,5,CS,Citizen science,7
+161,咸宁市,8,3,OD,Open data,6
+162,无锡市江阴市,8,4,OERs,Open educational resources,6
+163,石景山区,8,4,OD,Open data,3
+164,杭州市临安区,8,4,OERs,Open educational resources,6
+165,聊城市,8,5,OD,Open data,4
+166,温州市鹿城区,8,3,OERs,Open educational resources,6
+167,莆田市,8,4,OERs,Open educational resources,8
+168,海东市,8,4,OD,Open data,7
+169,阳江市,8,4,CS,Citizen science,10
+170,营口市,8,3,OERs,Open educational resources,4
+171,韶关市,8,4,OD,Open data,5
+172,潍坊市,8,5,OI,Open infrastructure,5
+173,三门峡市,8,4,OD,Open data,3
+174,阳泉市,7,5,OERs,Open educational resources,4
+175,安庆市,7,4,CS,Citizen science,9
+176,邢台市,7,4,OERs,Open educational resources,6
+177,齐齐哈尔市,7,3,OERs,Open educational resources,3
+178,嘉兴市桐乡市,7,4,OI,Open infrastructure,4
+179,锦州市,7,5,CS,Citizen science,15
+180,玉溪市,7,5,OD,Open data,6
+181,湖州市德清县,7,4,OD,Open data,8
+182,文山壮族苗族自治州,7,2,OERs,Open educational resources,6
+183,保山市,7,3,OERs,Open educational resources,4
+184,长治市,7,5,CS,Citizen science,3
+185,晋中市,7,4,OERs,Open educational resources,3
+186,河池市,7,5,OERs,Open educational resources,7
+187,陇南市,7,3,OERs,Open educational resources,9
+188,黑河市,7,4,OERs,Open educational resources,5
+189,西宁市,7,3,OI,Open infrastructure,10
+190,武威市,7,3,OERs,Open educational resources,4
+191,乌鲁木齐市,7,4,OI,Open infrastructure,9
+192,温州市乐清市,7,4,OERs,Open educational resources,4
+193,乐山市,7,4,OERs,Open educational resources,3
+194,西双版纳傣族自治州,7,3,OERs,Open educational resources,4
+195,黔南布依族苗族自治州,7,3,OERs,Open educational resources,4
+196,绍兴市诸暨市,7,4,OI,Open infrastructure,4
+197,清远市,7,4,CS,Citizen science,13
+198,浦东新区,7,5,CS,Citizen science,13
+199,黄山市,7,4,OERs,Open educational resources,4
+200,临汾市,7,3,OD,Open data,3
+201,绵阳市,7,3,OD,Open data,5
+202,杨浦区,7,4,OD,Open data,3
+203,顺义区,7,3,OI,Open infrastructure,5
+204,海口市,6,5,OD,Open data,2
+205,拉萨市,6,3,CS,Citizen science,5
+206,雅安市,6,3,OERs,Open educational resources,3
+207,钦州市,6,2,CS,Citizen science,6
+208,揭阳市,6,4,CS,Citizen science,6
+209,昌平区,6,4,OERs,Open educational resources,2
+210,商洛市,6,3,OD,Open data,4
+211,湖州市长兴县,6,5,OD,Open data,4
+212,乌海市,6,2,OERs,Open educational resources,8
+213,漯河市,6,4,OD,Open data,5
+214,苏州市昆山市,6,3,OERs,Open educational resources,3
+215,驻马店市,6,5,OI,Open infrastructure,6
+216,密云区,6,3,OERs,Open educational resources,4
+217,东莞市,6,3,CS,Citizen science,10
+218,宜春市,6,5,OERs,Open educational resources,5
+219,广元市,6,4,OD,Open data,5
+220,黄南藏族自治州,6,4,CS,Citizen science,10
+221,凉山彝族自治州,6,3,OERs,Open educational resources,7
+222,秦皇岛市,6,3,OERs,Open educational resources,4
+223,丰台区,6,3,CS,Citizen science,7
+224,闵行区,6,4,CS,Citizen science,9
+225,临沧市,6,2,OD,Open data,4
+226,吉安市,6,3,CS,Citizen science,13
+227,丹东市,6,3,OERs,Open educational resources,4
+228,鄂州市,6,4,OD,Open data,2
+229,大兴区,6,3,OI,Open infrastructure,5
+230,保定市,6,2,OERs,Open educational resources,6
+231,毕节市,6,3,OERs,Open educational resources,4
+232,南充市,6,3,CS,Citizen science,9
+233,乌兰察布市,5,3,OERs,Open educational resources,3
+234,静安区,5,4,CS,Citizen science,6
+235,河源市,5,2,CS,Citizen science,10
+236,鸡西市,5,4,OD,Open data,4
+237,汉中市,5,5,CS,Citizen science,6
+238,黄冈市,5,3,OI,Open infrastructure,3
+239,铁岭市,5,3,OERs,Open educational resources,3
+240,七台河市,5,3,OERs,Open educational resources,3
+241,娄底市,5,3,CS,Citizen science,15
+242,延安市,5,3,OI,Open infrastructure,3
+243,崇左市龙州县,5,3,OD,Open data,2
+244,承德市,5,4,OI,Open infrastructure,3
+245,东城区,5,4,OERs,Open educational resources,6
+246,宝山区,5,2,OERs,Open educational resources,4
+247,丽水市龙泉市,5,3,OSS,Open-source software,3
+248,周口市,5,3,OD,Open data,3
+249,海淀区,5,4,CS,Citizen science,4
+250,深圳市宝安区,5,5,OD,Open data,4
+251,深圳市龙华区,5,4,OSS,Open-source software,5
+252,阜新市,5,2,OERs,Open educational resources,6
+253,铜仁市,5,5,CS,Citizen science,2
+254,朔州市,5,4,CS,Citizen science,9
+255,日照市,5,3,OD,Open data,5
+256,绥化市,5,5,OERs,Open educational resources,3
+257,柳州市三江侗族自治县,5,3,OERs,Open educational resources,5
+258,红桥区,5,4,OERs,Open educational resources,3
+259,白城市,5,4,CS,Citizen science,14
+260,柳州市,5,4,OERs,Open educational resources,3
+261,通州区,5,5,OERs,Open educational resources,6
+262,温州市平阳县,5,3,OERs,Open educational resources,2
+263,阿坝藏族羌族自治州,5,3,OI,Open infrastructure,4
+264,温州市苍南县,5,2,OERs,Open educational resources,6
+265,铜陵市,5,4,CS,Citizen science,3
+266,温州市洞头区,5,4,OI,Open infrastructure,5
+267,湘潭市,5,3,CS,Citizen science,6
+268,嘉兴市海宁市,4,2,OI,Open infrastructure,3
+269,嘉兴市平湖市,4,2,OI,Open infrastructure,3
+270,嘉兴市嘉善县,4,2,OI,Open infrastructure,3
+271,嘉兴市南湖区,4,2,OERs,Open educational resources,2
+272,西青区,4,2,OERs,Open educational resources,2
+273,商丘市,4,4,OD,Open data,2
+274,黔西南布依族苗族自治州,4,3,OD,Open data,3
+275,苏州市张家港市,4,3,OERs,Open educational resources,2
+276,贵港市,4,2,OERs,Open educational resources,4
+277,贺州市钟山县,4,3,OERs,Open educational resources,2
+278,贺州市,4,2,OD,Open data,4
+279,普陀区,4,2,OI,Open infrastructure,3
+280,茂名市,4,3,OERs,Open educational resources,2
+281,嘉兴市海盐县,4,2,OERs,Open educational resources,3
+282,河东区,4,3,OD,Open data,3
+283,苏州市常熟市,4,2,OI,Open infrastructure,3
+284,舟山市嵊泗县,4,2,OERs,Open educational resources,3
+285,大庆市,4,2,OERs,Open educational resources,6
+286,松江区,4,2,OI,Open infrastructure,3
+287,来宾市,4,3,CS,Citizen science,6
+288,自贡市,4,3,OD,Open data,4
+289,荆门市,4,3,CS,Citizen science,4
+290,蓟州区,4,3,OD,Open data,2
+291,绍兴市越城区,4,3,OERs,Open educational resources,13
+292,和平区,4,3,OD,Open data,2
+293,河北区,4,3,OERs,Open educational resources,2
+294,百色市德保县,4,4,OD,Open data,2
+295,防城港市,4,3,OD,Open data,3
+296,南通市如东县,4,2,OERs,Open educational resources,4
+297,通化市,4,4,CS,Citizen science,13
+298,宝坻区,4,3,OD,Open data,2
+299,宿迁市泗阳县,4,2,OERs,Open educational resources,5
+300,玉林市容县,4,2,OERs,Open educational resources,3
+301,百色市凌云县,4,3,OERs,Open educational resources,3
+302,迪庆藏族自治州,4,3,OI,Open infrastructure,7
+303,鹤岗市,4,4,CS,Citizen science,3
+304,温州市龙港市,4,2,OI,Open infrastructure,3
+305,榆林市,4,3,OERs,Open educational resources,2
+306,济宁市,4,2,OERs,Open educational resources,5
+307,恩施土家族苗族自治州,4,4,CS,Citizen science,6
+308,张掖市,4,2,OI,Open infrastructure,3
+309,津南区,4,4,CS,Citizen science,6
+310,泸州市,4,4,CS,Citizen science,21
+311,巴彦淖尔市,4,2,CS,Citizen science,6
+312,河池市宜州区,4,3,OERs,Open educational resources,2
+313,杭州市萧山区,3,2,OERs,Open educational resources,2
+314,来宾市象州县,3,2,OD,Open data,2
+315,丽水市缙云县,3,2,OERs,Open educational resources,2
+316,阳江市江城区,3,2,OI,Open infrastructure,2
+317,梧州市蒙山县,3,2,OERs,Open educational resources,2
+318,柳州市柳江区,3,3,OD,Open data,1
+319,大理白族自治州,3,4,OERs,Open educational resources,4
+320,抚州市,3,2,OD,Open data,3
+321,黄浦区,3,2,OD,Open data,2
+322,广州市番禺区,3,2,OERs,Open educational resources,2
+323,舟山市定海区,3,2,OI,Open infrastructure,3
+324,来宾市忻城县,3,2,OI,Open infrastructure,2
+325,怀柔区,3,2,OI,Open infrastructure,2
+326,丽水市遂昌县,3,2,OERs,Open educational resources,2
+327,阿勒泰地区,3,3,OD,Open data,2
+328,惠州市龙门县,3,2,CS,Citizen science,9
+329,来宾市兴宾区,3,4,CS,Citizen science,4
+330,云浮市,3,3,OD,Open data,2
+331,阳江市阳春市,3,2,CS,Citizen science,9
+332,南宁市江南区,3,3,OERs,Open educational resources,2
+333,汕尾市,3,3,CS,Citizen science,9
+334,株洲市,3,3,OD,Open data,2
+335,东丽区,3,2,OI,Open infrastructure,2
+336,无锡市滨湖区,3,2,OI,Open infrastructure,2
+337,上饶市,3,4,OI,Open infrastructure,3
+338,攀枝花市,3,3,OI,Open infrastructure,4
+339,丽江市,3,3,OD,Open data,2
+340,温州市龙湾区,3,2,OD,Open data,3
+341,宁波市奉化区,3,2,OERs,Open educational resources,2
+342,湖州市南浔区,3,2,OI,Open infrastructure,3
+343,南宁市武鸣区,3,4,CS,Citizen science,2
+344,湖州市吴兴区,3,2,OI,Open infrastructure,3
+345,南宁市横县,3,3,OD,Open data,2
+346,西城区,3,3,OD,Open data,1
+347,钦州市钦北区,3,2,OERs,Open educational resources,2
+348,连云港市海州区,3,2,OERs,Open educational resources,2
+349,喀什地区,3,4,OD,Open data,5
+350,石嘴山市,3,3,CS,Citizen science,8
+351,台州市路桥区,3,2,OI,Open infrastructure,4
+352,泰州市靖江市,3,2,OPR,Open peer review,2
+353,绍兴市上虞区,3,2,CS,Citizen science,5
+354,河池市南丹县,3,3,OD,Open data,4
+355,哈密市,3,2,OD,Open data,2
+356,金华市磐安县,3,3,OD,Open data,3
+357,常德市,3,3,CS,Citizen science,6
+358,南开区,3,2,OERs,Open educational resources,2
+359,温州市永嘉县,3,3,OI,Open infrastructure,2
+360,湛江市,3,2,CS,Citizen science,10
+361,通辽市,3,5,OERs,Open educational resources,4
+362,南宁市邕宁区,3,2,OERs,Open educational resources,2
+363,固原市,3,2,OI,Open infrastructure,3
+364,滨海新区,3,3,OD,Open data,1
+365,崇左市扶绥县,3,4,CS,Citizen science,4
+366,潮州市,3,4,CS,Citizen science,6
+367,崇左市大新县,3,1,OERs,Open educational resources,3
+368,巴中市,3,3,CS,Citizen science,2
+369,镇江市扬中市,2,2,CS,Citizen science,16
+370,淮安市淮安区,2,2,OD,Open data,1
+371,钦州市灵山县,2,1,OERs,Open educational resources,2
+372,深圳市南山区,2,2,OD,Open data,1
+373,兴安盟,2,2,OD,Open data,1
+374,镇江市句容市,2,2,OERs,Open educational resources,2
+375,汕头市龙湖区,2,3,OERs,Open educational resources,2
+376,徐州市铜山区,2,2,OI,Open infrastructure,2
+377,江门市鹤山市,2,2,OD,Open data,1
+378,池州市,2,4,CS,Citizen science,9
+379,佛山市高明区,2,2,OD,Open data,1
+380,徐州市鼓楼区,2,1,OD,Open data,4
+381,广州市花都区,2,2,CS,Citizen science,12
+382,惠州市惠城区,2,2,CS,Citizen science,9
+383,南通市海安市,2,2,OD,Open data,1
+384,钦州市钦南区,2,2,CS,Citizen science,6
+385,海西蒙古族藏族自治州,2,2,OERs,Open educational resources,1
+386,南京市浦口区,2,2,OD,Open data,1
+387,铜川市,2,2,CS,Citizen science,7
+388,武清区,2,1,OI,Open infrastructure,2
+389,佛山市顺德区,2,2,OERs,Open educational resources,2
+390,北海市铁山港区,2,3,OERs,Open educational resources,4
+391,怀化市,2,2,OD,Open data,1
+392,锡林郭勒盟,2,3,OERs,Open educational resources,3
+393,徐州市新沂市,2,1,OD,Open data,2
+394,广州市海珠区,2,2,CS,Citizen science,8
+395,崇左市天等县,2,2,OD,Open data,1
+396,六安市,2,2,OD,Open data,2
+397,河池市凤山县,2,2,OD,Open data,2
+398,成都市崇州市,2,2,OERs,Open educational resources,1
+399,汕头市濠江区,2,2,OERs,Open educational resources,2
+400,桂林市龙胜各族自治县,2,1,OERs,Open educational resources,3
+401,广州市天河区,2,3,CS,Citizen science,7
+402,崇左市宁明县,2,1,OERs,Open educational resources,2
+403,柳州市鱼峰区,2,2,OERs,Open educational resources,1
+404,梧州市藤县,2,1,OERs,Open educational resources,2
+405,常州市天宁区,2,2,OD,Open data,1
+406,伊犁哈萨克自治州,2,2,OD,Open data,2
+407,金山区,2,2,CS,Citizen science,15
+408,静海区,2,1,OD,Open data,2
+409,随州市,2,1,OERs,Open educational resources,2
+410,金华市金东区,2,1,OERs,Open educational resources,2
+411,桂林市资源县,2,2,OD,Open data,1
+412,酒泉市,2,2,OD,Open data,1
+413,梧州市岑溪市,2,2,OI,Open infrastructure,2
+414,河池市大化瑶族自治县,2,2,OERs,Open educational resources,3
+415,佛山市南海区,2,1,OERs,Open educational resources,3
+416,舟山市普陀区,2,2,OD,Open data,1
+417,温州市泰顺县,2,2,OERs,Open educational resources,1
+418,金华市武义县,2,1,OI,Open infrastructure,2
+419,南宁市良庆区,2,1,OERs,Open educational resources,2
+420,金华市义乌市,2,2,OERs,Open educational resources,1
+421,广州市越秀区,2,1,OI,Open infrastructure,4
+422,钦州市浦北县,2,2,OD,Open data,3
+423,克拉玛依市,2,2,OD,Open data,1
+424,门头沟区,2,2,OERs,Open educational resources,2
+425,河池市巴马瑶族自治县,2,3,OERs,Open educational resources,3
+426,河池市天峨县,2,2,OD,Open data,2
+427,柳州市柳城县,2,1,OERs,Open educational resources,2
+428,江门市江海区,2,2,CS,Citizen science,1
+429,舟山市岱山县,2,1,OI,Open infrastructure,2
+430,宿迁市泗洪县,2,2,OD,Open data,2
+431,台州市天台县,2,2,OI,Open infrastructure,2
+432,杭州市临平区,2,2,OI,Open infrastructure,6
+433,江门市台山市,2,2,OERs,Open educational resources,3
+434,甘孜藏族自治州,2,2,OI,Open infrastructure,2
+435,宿迁市沭阳县,2,2,CS,Citizen science,7
+436,白山市,2,2,OD,Open data,2
+437,成都市邛崃市,2,1,OERs,Open educational resources,2
+438,宿迁市宿豫区,2,2,OD,Open data,1
+439,无锡市惠山区,2,2,OA,Open access,1
+440,琼海市,2,1,OERs,Open educational resources,2
+441,宁波市镇海区,2,1,OERs,Open educational resources,2
+442,百色市右江区,2,3,CS,Citizen science,13
+443,珠海市横琴粤澳深度合作区,2,1,OI,Open infrastructure,2
+444,百色市平果市,2,2,OERs,Open educational resources,1
+445,吐鲁番市,2,2,OERs,Open educational resources,1
+446,甘南藏族自治州,2,2,OERs,Open educational resources,1
+447,德宏傣族景颇族自治州,2,2,OERs,Open educational resources,2
+448,安康市,2,2,OD,Open data,2
+449,杭州市滨江区,2,2,OI,Open infrastructure,1
+450,松原市,2,1,OD,Open data,2
+451,定西市,2,2,OD,Open data,3
+452,宜昌市五峰土家族自治县,2,2,CS,Citizen science,1
+453,杭州市钱塘区,2,2,OERs,Open educational resources,1
+454,益阳市,2,1,OERs,Open educational resources,3
+455,南通市如皋市,2,1,OD,Open data,4
+456,百色市田林县,2,1,OERs,Open educational resources,2
+457,杭州市西湖区,2,2,OD,Open data,2
+458,贺州市昭平县,2,2,OD,Open data,1
+459,揭阳市揭东区,2,2,OD,Open data,2
+460,南通市通州区,2,4,CS,Citizen science,13
+461,贵港市覃塘区,2,3,OD,Open data,1
+462,朝阳区,2,3,OD,Open data,1
+463,肇庆市高要区,2,3,OERs,Open educational resources,2
+464,贵港市港北区,2,1,OERs,Open educational resources,2
+465,肇庆市端州区,2,3,CS,Citizen science,9
+466,肇庆市德庆县,2,2,CS,Citizen science,11
+467,大兴安岭地区,2,2,OERs,Open educational resources,1
+468,肇庆市广宁县,2,2,CS,Citizen science,21
+469,资阳市,2,1,OERs,Open educational resources,2
+470,绍兴市柯桥区,2,1,OI,Open infrastructure,2
+471,绍兴市嵊州市,2,3,OI,Open infrastructure,2
+472,杭州市建德市,2,2,OERs,Open educational resources,1
+473,赤峰市,2,2,OD,Open data,2
+474,杭州市上城区,2,2,OI,Open infrastructure,2
+475,宁波市海曙区,2,1,OERs,Open educational resources,2
+476,奉贤区,2,2,CS,Citizen science,2
+477,昭通市,2,2,OD,Open data,1
+478,景德镇市,2,2,CS,Citizen science,3
+479,三亚市,2,1,CS,Citizen science,2
+480,衢州市柯城区,2,2,OI,Open infrastructure,3
+481,衢州市常山县,2,2,OERs,Open educational resources,1
+482,衡阳市,2,4,CS,Citizen science,7
+483,吴忠市,2,2,CS,Citizen science,12
+484,揭阳市普宁市,2,1,OERs,Open educational resources,2
+485,扬州市江都区,2,2,OD,Open data,1
+486,黄石市,2,1,OERs,Open educational resources,2
+487,昌吉回族自治州,2,3,OD,Open data,2
+488,荆州市,2,2,OI,Open infrastructure,2
+489,盐城市亭湖区,1,1,OERs,Open educational resources,1
+490,百色市隆林各族自治县,1,1,OERs,Open educational resources,1
+491,张家口市,1,1,OERs,Open educational resources,1
+492,百色市西林县,1,2,OD,Open data,1
+493,百色市田阳县,1,1,CS,Citizen science,15
+494,宁河区,1,1,OERs,Open educational resources,1
+495,张家界市,1,2,CS,Citizen science,9
+496,盐城市射阳县,1,1,OI,Open infrastructure,1
+497,太原市尖草坪区,1,1,OI,Open infrastructure,3
+498,盐城市阜宁县,1,2,CS,Citizen science,10
+499,定安县,1,1,OD,Open data,1
+500,石柱土家族自治县,1,1,OD,Open data,1
+501,宁波市鄞州区,1,1,OI,Open infrastructure,1
+502,秦皇岛市青龙满族自治县,1,1,OI,Open infrastructure,1
+503,粤港澳大湾区,1,2,OD,Open data,2
+504,白山市长白朝鲜族自治县,1,1,OD,Open data,1
+505,桂林市叠彩区,1,1,OERs,Open educational resources,1
+506,徐州市丰县,1,1,OD,Open data,1
+507,成都市金牛区,1,1,OD,Open data,3
+508,桂林市全州县,1,1,OD,Open data,1
+509,成都市彭州市,1,1,OI,Open infrastructure,1
+510,扬州市广陵区,1,1,OI,Open infrastructure,1
+511,肇庆市四会市,1,1,OERs,Open educational resources,1
+512,扬州市仪征市,1,1,OERs,Open educational resources,1
+513,房山区,1,3,OERs,Open educational resources,2
+514,来宾市武宣县,1,1,OI,Open infrastructure,1
+515,成都市都江堰市,1,1,OD,Open data,1
+516,桂林市灌阳县,1,1,OPR,Open peer review,1
+517,杭州市富阳区,1,1,OI,Open infrastructure,1
+518,杭州市拱墅区,1,1,OD,Open data,1
+519,杭州市桐庐县,1,1,OI,Open infrastructure,1
+520,松原市前郭尔罗斯蒙古族自治县,1,1,OD,Open data,1
+521,果洛藏族自治州,1,1,OERs,Open educational resources,1
+522,成都市郫都区,1,1,OI,Open infrastructure,2
+523,成都市新都区,1,1,OERs,Open educational resources,1
+524,柳州市柳南区,1,1,OERs,Open educational resources,1
+525,天门市,1,1,OD,Open data,1
+526,巴音郭楞蒙古自治州,1,1,OERs,Open educational resources,1
+527,肇庆市鼎湖区,1,2,OERs,Open educational resources,1
+528,常州市新北区,1,1,OERs,Open educational resources,1
+529,广州市南沙区,1,2,OERs,Open educational resources,1
+530,平谷区,1,1,OD,Open data,1
+531,温州市文成县,1,1,OI,Open infrastructure,1
+532,温州市瓯海区,1,1,OD,Open data,2
+533,玉林市玉州区,1,1,OERs,Open educational resources,1
+534,常州市钟楼区,1,1,OERs,Open educational resources,1
+535,常州市溧阳市,1,1,OD,Open data,1
+536,湘西土家族苗族自治州,1,1,OD,Open data,1
+537,苏州市太仓市,1,1,OERs,Open educational resources,1
+538,湛江市廉江市,1,1,OERs,Open educational resources,1
+539,湛江市徐闻县,1,1,OD,Open data,1
+540,崇左市江州区,1,1,OERs,Open educational resources,1
+541,崇左市凭祥市,1,1,OERs,Open educational resources,1
+542,岳阳市,1,1,OI,Open infrastructure,1
+543,玉林市兴业县,1,1,OERs,Open educational resources,1
+544,昌都市,1,1,OERs,Open educational resources,1
+545,广州市增城区,1,1,CS,Citizen science,14
+546,广州市增城市,1,1,OI,Open infrastructure,1
+547,深圳市龙岗区,1,1,OI,Open infrastructure,1
+548,深圳市坪山区,1,1,OPR,Open peer review,2
+549,茂名市信宜市,1,1,OERs,Open educational resources,1
+550,茂名市化州市,1,1,OERs,Open educational resources,1
+551,茂名市茂南区,1,1,OERs,Open educational resources,1
+552,茂名市高州市,1,1,OERs,Open educational resources,1
+553,哈密市巴里坤哈萨克自治县,1,1,OERs,Open educational resources,1
+554,衡水市桃城区,1,1,OI,Open infrastructure,1
+555,衢州市开化县,1,1,OI,Open infrastructure,1
+556,百色市田东县,1,1,OERs,Open educational resources,1
+557,玉林市福绵区,1,1,OD,Open data,1
+558,海东市民和回族土族自治县,1,1,OERs,Open educational resources,1
+559,平潭综合实验区,1,1,OERs,Open educational resources,1
+560,庆阳市,1,1,OERs,Open educational resources,1
+561,广州市黄埔区,1,1,OD,Open data,1
+562,广州市白云区,1,2,CS,Citizen science,7
+563,淮安市淮阴区,1,1,OI,Open infrastructure,1
+564,扬州市邗江区,1,1,OI,Open infrastructure,1
+565,台州市三门县,1,1,OI,Open infrastructure,1
+566,昌吉回族自治州木垒哈萨克自治县,1,1,OERs,Open educational resources,1
+567,台州市黄岩区,1,1,OI,Open infrastructure,1
+568,丽水市松阳县,1,1,OERs,Open educational resources,1
+569,丽水市景宁畲族自治县,1,1,OERs,Open educational resources,1
+570,连云港市东海县,1,1,OERs,Open educational resources,1
+571,连云港市灌云县,1,1,OD,Open data,1
+572,南通市启东市,1,2,CS,Citizen science,13
+573,丽水市庆元县,1,1,OERs,Open educational resources,2
+574,金华市浦江县,1,1,OI,Open infrastructure,1
+575,南宁市宾阳县,1,1,OERs,Open educational resources,1
+576,揭阳市榕城区,1,2,CS,Citizen science,5
+577,连云港市赣榆区,1,1,OD,Open data,1
+578,丹东市宽甸满族自治县,1,1,CS,Citizen science,11
+579,南京市江宁区,1,1,OD,Open data,1
+580,防城港市防城区,1,1,OERs,Open educational resources,1
+581,临夏回族自治州,1,2,OD,Open data,1
+582,金华市兰溪市,1,1,OSS,Open-source software,2
+583,中卫市,1,1,OD,Open data,3
+584,台州市玉环市,1,1,OI,Open infrastructure,1
+585,阳江市阳西县,1,1,CS,Citizen science,8
+586,丽水市莲都区,1,1,OI,Open infrastructure,1
+587,陵水黎族自治县,1,1,OERs,Open educational resources,1
+588,克孜勒苏柯尔克孜自治州,1,1,OERs,Open educational resources,1
+589,儋州市,1,1,OD,Open data,1
+590,酒泉市阿克塞哈萨克族自治县,1,1,OERs,Open educational resources,1
+591,南宁市隆安县,1,1,OD,Open data,1
+592,防城港市东兴市,1,1,OERs,Open educational resources,1
+593,黔东南苗族侗族自治州,1,1,OD,Open data,1
+594,韶关市乐昌市,1,1,CS,Citizen science,14
+595,佳木斯市,1,1,OPR,Open peer review,1
+596,乐东黎族自治县,1,1,CS,Citizen science,2
+597,南通市海门区,1,1,OERs,Open educational resources,1
+598,丽水市青田县,1,1,OD,Open data,1
+599,西安市雁塔区,1,1,OERs,Open educational resources,2
+600,呼伦贝尔市莫力达瓦达斡尔族自治旗,1,1,OERs,Open educational resources,1
+601,镇江市润州区,1,1,OD,Open data,1
+602,北海市海城区,1,1,OD,Open data,1
+603,银川市灵武市,1,1,OD,Open data,1
+604,台州市临海市,1,1,OD,Open data,1
+605,黄南藏族自治州尖扎县,1,1,OD,Open data,1
+606,河池市金城江区,1,1,OERs,Open educational resources,1
+607,河源市东源县,1,1,OERs,Open educational resources,1
+608,河源市紫金县,1,1,OERs,Open educational resources,2
+609,河源市龙川县,1,1,CS,Citizen science,8
+610,徐州市睢宁县,1,1,OD,Open data,1
+611,泉州市鲤城区,1,1,OI,Open infrastructure,1
+612,徐州市沛县,1,1,OD,Open data,2
+613,泰州市姜堰区,1,1,OD,Open data,1
+614,泰州市泰兴市,1,1,OERs,Open educational resources,1
+615,泰州市海陵区,1,1,OD,Open data,1
+616,万宁市,1,1,OD,Open data,1
+617,梅州市丰顺县,1,2,CS,Citizen science,7
+618,桂林市荔浦市,1,1,OERs,Open educational resources,1
+619,成都市金堂县,1,1,OERs,Open educational resources,1
+620,无锡市梁溪区,1,1,OD,Open data,1
+621,无锡市锡山区,1,1,OD,Open data,3
+622,徐州市邳州市,1,1,OD,Open data,2
+623,河池市罗城仫佬族自治县,1,1,OERs,Open educational resources,1
+624,文昌市,1,1,OERs,Open educational resources,1
+625,河池市东兰县,1,1,OERs,Open educational resources,1
+626,百色市乐业县,1,1,OERs,Open educational resources,1
+627,和田地区,1,1,OERs,Open educational resources,1
+628,衢州市江山市,1,1,OPR,Open peer review,1
+629,梅州市兴宁市,1,1,OD,Open data,1
+630,梅州市梅县区,1,1,OD,Open data,1
+631,梧州市万秀区,1,1,OERs,Open educational resources,1
+632,梧州市苍梧县,1,2,OD,Open data,1
+633,梧州市龙圩区,1,2,OD,Open data,1
+634,惠州市惠阳区,1,1,OERs,Open educational resources,1
+635,恩施土家族苗族自治州恩施市,1,1,OERs,Open educational resources,2
+636,毕节市威宁彝族回族苗族自治县,1,1,OPR,Open peer review,1
+637,永州市,1,1,OPR,Open peer review,1
+638,汕头市潮南区,1,1,OD,Open data,2
+639,江门市恩平市,1,1,OD,Open data,1
+640,徐汇区,1,1,OD,Open data,2
+641,梅州市五华县,1,1,OERs,Open educational resources,1

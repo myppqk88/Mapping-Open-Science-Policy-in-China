@@ -1,0 +1,50 @@
+{
+  "source_entry_workbook": "/Users/qkay/Nutstore Files/open_science_policy/5.2/合并政策条目表.xlsx",
+  "llm_screening_note": "The 5.2 final entry workbook combines the DeepSeek-V4-Pro initial 是 entries and the final wide-scope semantic re-review of initial 否 entries. Rows marked 是 are retained for downstream analysis; file-level categories are reconstructed from the retained entry categories.",
+  "raw_rows_in_final_workbook": 21258,
+  "retained_open_science_entries": 21258,
+  "removed_non_open_science_or_unjudged_entries": 0,
+  "unique_policy_files_before_entry_filter": 10425,
+  "retained_policy_files": 10425,
+  "dropped_policy_files_not_in_retained_entries": 0,
+  "metadata_matched_policy_files": 10425,
+  "metadata_unmatched_policy_files": 0,
+  "issue_year_range": {
+    "min": 1985,
+    "max": 2026
+  },
+  "entries_by_governance_level": {
+    "省级": 9486,
+    "地市级": 8542,
+    "中央": 3230
+  },
+  "policy_files_by_governance_level": {
+    "地市级": 4826,
+    "省级": 4387,
+    "中央": 1212
+  },
+  "category_entry_counts": {
+    "OA": 287,
+    "OD": 3925,
+    "OSS": 985,
+    "OERs": 7045,
+    "CS": 3171,
+    "OPR": 371,
+    "OI": 5911,
+    "ORM": 58
+  },
+  "category_policy_file_counts": {
+    "OA": 247,
+    "OD": 2608,
+    "OSS": 599,
+    "OERs": 3794,
+    "CS": 1062,
+    "OPR": 314,
+    "OI": 3611,
+    "ORM": 51
+  },
+  "joint_issuance_entry_share": 0.112805,
+  "joint_issuance_file_share": 0.106379,
+  "multi_category_entry_share": 0.02432,
+  "multi_category_file_share": 0.151271
+}

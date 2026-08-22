@@ -1,0 +1,93 @@
+﻿stage_id,stage_name,stage_name_zh,central_local,central_local_en,category_combination,policy_file_count,within_stage_level_file_share
+1,Emergence,萌芽期,中央,Central,OERs,11,0.3548387096774194
+1,Emergence,萌芽期,中央,Central,CS,4,0.12903225806451613
+1,Emergence,萌芽期,中央,Central,OI,4,0.12903225806451613
+1,Emergence,萌芽期,中央,Central,OD,3,0.0967741935483871
+1,Emergence,萌芽期,中央,Central,OD+OI,3,0.0967741935483871
+1,Emergence,萌芽期,中央,Central,OERs+OI,3,0.0967741935483871
+1,Emergence,萌芽期,中央,Central,OA+OD+OI,2,0.06451612903225806
+1,Emergence,萌芽期,中央,Central,OPR,1,0.03225806451612903
+1,Emergence,萌芽期,地方,Local,OERs,73,0.6460176991150443
+1,Emergence,萌芽期,地方,Local,OI,15,0.13274336283185842
+1,Emergence,萌芽期,地方,Local,CS,5,0.04424778761061947
+1,Emergence,萌芽期,地方,Local,OA+OD+OI,4,0.035398230088495575
+1,Emergence,萌芽期,地方,Local,OSS,4,0.035398230088495575
+1,Emergence,萌芽期,地方,Local,OD+OI,3,0.02654867256637168
+1,Emergence,萌芽期,地方,Local,OPR,3,0.02654867256637168
+1,Emergence,萌芽期,地方,Local,CS+OI,2,0.017699115044247787
+1,Emergence,萌芽期,地方,Local,OD+CS,1,0.008849557522123894
+1,Emergence,萌芽期,地方,Local,OD+CS+OI,1,0.008849557522123894
+1,Emergence,萌芽期,地方,Local,OERs+OI,1,0.008849557522123894
+1,Emergence,萌芽期,地方,Local,OI+ORM,1,0.008849557522123894
+2,Gradual expansion,渐进扩展期,中央,Central,CS,121,0.3457142857142857
+2,Gradual expansion,渐进扩展期,中央,Central,OI,73,0.20857142857142857
+2,Gradual expansion,渐进扩展期,中央,Central,OERs,58,0.1657142857142857
+2,Gradual expansion,渐进扩展期,中央,Central,OD,27,0.07714285714285714
+2,Gradual expansion,渐进扩展期,中央,Central,CS+OI,12,0.03428571428571429
+2,Gradual expansion,渐进扩展期,中央,Central,OD+OI,11,0.03142857142857143
+2,Gradual expansion,渐进扩展期,中央,Central,OA,10,0.02857142857142857
+2,Gradual expansion,渐进扩展期,中央,Central,OPR,9,0.025714285714285714
+2,Gradual expansion,渐进扩展期,中央,Central,OSS,5,0.014285714285714285
+2,Gradual expansion,渐进扩展期,中央,Central,OERs+CS,5,0.014285714285714285
+2,Gradual expansion,渐进扩展期,中央,Central,OA+OD+OI,4,0.011428571428571429
+2,Gradual expansion,渐进扩展期,中央,Central,OD+OERs,3,0.008571428571428572
+2,Gradual expansion,渐进扩展期,地方,Local,OERs,865,0.40046296296296297
+2,Gradual expansion,渐进扩展期,地方,Local,OI,616,0.2851851851851852
+2,Gradual expansion,渐进扩展期,地方,Local,CS,117,0.05416666666666667
+2,Gradual expansion,渐进扩展期,地方,Local,OD,115,0.05324074074074074
+2,Gradual expansion,渐进扩展期,地方,Local,OD+OI,78,0.03611111111111111
+2,Gradual expansion,渐进扩展期,地方,Local,OPR,75,0.034722222222222224
+2,Gradual expansion,渐进扩展期,地方,Local,CS+OI,58,0.026851851851851852
+2,Gradual expansion,渐进扩展期,地方,Local,OA,42,0.019444444444444445
+2,Gradual expansion,渐进扩展期,地方,Local,OSS,32,0.014814814814814815
+2,Gradual expansion,渐进扩展期,地方,Local,OERs+OI,31,0.014351851851851852
+2,Gradual expansion,渐进扩展期,地方,Local,OD+OERs,17,0.00787037037037037
+2,Gradual expansion,渐进扩展期,地方,Local,OA+OD+OI,14,0.006481481481481481
+3,Rapid expansion,快速扩张期,中央,Central,CS,100,0.22573363431151242
+3,Rapid expansion,快速扩张期,中央,Central,OERs,94,0.21218961625282168
+3,Rapid expansion,快速扩张期,中央,Central,OI,76,0.17155756207674944
+3,Rapid expansion,快速扩张期,中央,Central,OD,54,0.12189616252821671
+3,Rapid expansion,快速扩张期,中央,Central,OD+OI,21,0.04740406320541761
+3,Rapid expansion,快速扩张期,中央,Central,OPR,19,0.04288939051918736
+3,Rapid expansion,快速扩张期,中央,Central,OD+OERs,16,0.03611738148984198
+3,Rapid expansion,快速扩张期,中央,Central,OSS,11,0.024830699774266364
+3,Rapid expansion,快速扩张期,中央,Central,OA,9,0.020316027088036117
+3,Rapid expansion,快速扩张期,中央,Central,CS+OI,8,0.01805869074492099
+3,Rapid expansion,快速扩张期,中央,Central,OERs+CS+OI,6,0.013544018058690745
+3,Rapid expansion,快速扩张期,中央,Central,OERs+CS,6,0.013544018058690745
+3,Rapid expansion,快速扩张期,地方,Local,OERs,1177,0.34556664709336465
+3,Rapid expansion,快速扩张期,地方,Local,OI,907,0.2662947739283617
+3,Rapid expansion,快速扩张期,地方,Local,OD,662,0.19436288901937757
+3,Rapid expansion,快速扩张期,地方,Local,OD+OI,113,0.03317674691720493
+3,Rapid expansion,快速扩张期,地方,Local,OD+OERs,81,0.02378156194950088
+3,Rapid expansion,快速扩张期,地方,Local,OPR,80,0.023487962419260128
+3,Rapid expansion,快速扩张期,地方,Local,CS,54,0.015854374633000587
+3,Rapid expansion,快速扩张期,地方,Local,OSS,51,0.014973576042278332
+3,Rapid expansion,快速扩张期,地方,Local,CS+OI,35,0.010275983558426306
+3,Rapid expansion,快速扩张期,地方,Local,OD+OSS,31,0.0091015854374633
+3,Rapid expansion,快速扩张期,地方,Local,OERs+OI,30,0.008807985907222548
+3,Rapid expansion,快速扩张期,地方,Local,OSS+OI,17,0.0049911920140927775
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OD,80,0.22598870056497175
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,CS,65,0.18361581920903955
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OERs,44,0.12429378531073447
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OI,33,0.09322033898305085
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OSS,32,0.0903954802259887
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OPR,28,0.07909604519774012
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OA,19,0.05367231638418079
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OD+OSS,14,0.03954802259887006
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OD+OI,12,0.03389830508474576
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OD+OERs,5,0.014124293785310734
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OA+OD,3,0.00847457627118644
+4,High-level diffusion and adjustment,高位扩散与调整期,中央,Central,OD+CS,3,0.00847457627118644
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OI,933,0.26965317919075144
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OERs,866,0.2502890173410405
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OD,665,0.19219653179190752
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,CS,175,0.05057803468208093
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OSS,155,0.044797687861271675
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OD+OI,124,0.035838150289017344
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OERs+CS,97,0.028034682080924855
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OD+OSS,74,0.02138728323699422
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OD+OERs,68,0.019653179190751446
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OSS+OI,35,0.010115606936416185
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,OPR,34,0.009826589595375723
+4,High-level diffusion and adjustment,高位扩散与调整期,地方,Local,CS+OI,27,0.007803468208092485

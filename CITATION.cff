@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "Mapping Open Science Policy in China: A Structural, Temporal, and Spatial Analysis (replication data and code)"
+message: "If you use this dataset or code, please cite both the paper and this repository."
+type: dataset
+authors:
+  - family-names: "Qiao"
+    given-names: "Kai"
+    orcid: "https://orcid.org/0009-0000-0187-9190"
+    affiliation: "School of Cultural Heritage and Information Management, Shanghai University, Shanghai, China"
+  - family-names: "Sheng"
+    given-names: "Xiaoping"
+    affiliation: "School of Cultural Heritage and Information Management, Shanghai University, Shanghai, China"
+date-released: 2026-08-22
+version: "v5.3"
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+repository-code: "https://github.com/myppqk88/Mapping-Open-Science-Policy-in-China"
+abstract: >
+  This repository provides the replication dataset and code for "Mapping Open
+  Science Policy in China", comprising 21,242 clause-level open science policy
+  entries extracted from 10,413 documents issued by Chinese central, provincial,
+  and prefectural authorities between 1998 and 2026, together with a 27-year
+  provincial science-and-technology innovation indicator panel and all scripts
+  needed to reproduce every figure and table in the paper.
+keywords:
+  - open science
+  - policy text analysis
+  - China
+  - scientometrics
+  - policy intensity
+  - structural breakpoint detection
+  - entropy weight method
+  - science and technology innovation
+preferred-citation:
+  type: article
+  title: "Mapping Open Science Policy in China: A Structural, Temporal, and Spatial Analysis"
+  authors:
+    - family-names: "Qiao"
+      given-names: "Kai"
+      orcid: "https://orcid.org/0009-0000-0187-9190"
+    - family-names: "Sheng"
+      given-names: "Xiaoping"
+  journal: "Humanities and Social Sciences Communications"
+  year: 2026
+  notes: "under review"
