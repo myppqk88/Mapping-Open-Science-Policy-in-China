@@ -11,7 +11,8 @@ Everything underpinning the analysis is in this repository — no request to the
 | You want to check | Go to |
 |---|---|
 | Any figure or table in the paper | `code/figures/` — one script per figure, run from the repo root |
-| The raw and cleaned policy corpus | `data/policy_entries_v5_3.xlsx` (21,242 entries), `data/policy_files_v5_3.xlsx` (10,413 documents) |
+| The cleaned policy corpus used in the analysis | `data/policy_entries_v5_3.xlsx` (21,242 entries), `data/policy_files_v5_3.xlsx` (10,413 documents) |
+| What the final manual-correction pass changed | `data/pre_correction/` — the same two tables before correction; diff against the files above |
 | What every column means | `data/data_dictionary.md` |
 | The category coding scheme and the exact LLM prompt used | `docs/llm_classification_prompt.md` |
 | Full method detail (Appendices A–G) | `docs/appendix.docx` |
@@ -32,7 +33,7 @@ The `outputs/` directory ships pre-computed so that results can be inspected wit
 ## Repository layout
 
 ```
-opengit/
+Mapping-Open-Science-Policy-in-China/
 ├── README.md                  this file
 ├── LICENSE                    MIT for code
 ├── LICENSE-DATA               CC BY 4.0 for data
