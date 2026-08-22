@@ -64,7 +64,6 @@ Mapping-Open-Science-Policy-in-China/
 │   ├── compute_appendix_g.py                 reproduces Appendix G tables G1-G6
 │   └── export_map_data.py                    geo-data preparation helper
 ├── outputs/
-│   ├── figures/                              policy-text processing flowchart (Fig. 1)
 │   ├── tables/                               supplementary CSV tables, including
 │   │   ├── ch4_*.csv, ch5_*.csv, ch6_*.csv   per-chapter result tables
 │   │   └── appG_T1..T6_*.csv                 Appendix G coupling statistics
